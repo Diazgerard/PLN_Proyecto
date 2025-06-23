@@ -80,12 +80,12 @@ python-Levenshtein
 Ollama instalado y corriendo el modelo mistral o orca-mini (si tu PC tiene poca RAM)
 
 
-###📦 Archivos generados
+### 📦 Archivos generados
 terms.txt: lista de términos extraídos y frecuencia
 
 glossary.json: contiene todos los términos procesados con variantes, tokens, definición y ejemplo
 
-###✍️ Autor
+### ✍️ Autor
 Estudiante: Gerardo Andre Diaz Urraco
 
 Curso: Procesamiento de Lenguaje Natural (Q2-2025)
