@@ -1,0 +1,4443 @@
+[
+  {
+    "term": "jugadores",
+    "variants": [
+      "jugador",
+      "jugado",
+      "jugadas"
+    ],
+    "tokens": [
+      "j",
+      "u",
+      "g",
+      "ad",
+      "or",
+      "es"
+    ],
+    "definition": "Los jugadores son los participantes que intervienen en un partido de fútbol, cada uno con una posición específica y funciones específicas en el juego.",
+    "example": "El portero no pudo atajar el gol del jugador ofensivo."
+  },
+  {
+    "term": "pelota",
+    "variants": [
+      "esta",
+      "pero",
+      "peso",
+      "meta",
+      "planta",
+      "persona",
+      "bota",
+      "punta",
+      "puerta",
+      "remonta"
+    ],
+    "tokens": [
+      "p",
+      "e",
+      "l",
+      "o",
+      "ta"
+    ],
+    "definition": "Objeto redondo que se utiliza en diferentes deportes, pero en particular en el fútbol, para marcar goles.",
+    "example": "La pelota es una pelota de fútbol."
+  },
+  {
+    "term": "juego",
+    "variants": [
+      "mundo",
+      "puede",
+      "juega",
+      "juegan",
+      "suelo",
+      "juegos",
+      "cuerpo",
+      "cuero",
+      "junto",
+      "cuyo",
+      "pues",
+      "puesto",
+      "suele",
+      "mueva",
+      "llega",
+      "largo",
+      "muslo",
+      "fueron",
+      "jugar",
+      "fuera"
+    ],
+    "tokens": [
+      "j",
+      "u",
+      "e",
+      "g",
+      "o"
+    ],
+    "definition": "Juego es la competición de un partido de fútbol, en el que dos equipos se enfrentan por determinar quién gana. Cada juego se divide en dos partes, cada una de 45 minutos.",
+    "example": "El juego de fútbol entre Barcelona y Real Madrid es muy esperado. Es el partido más grande del año."
+  },
+  {
+    "term": "como",
+    "variants": [
+      "campo",
+      "cada",
+      "conoce",
+      "solo",
+      "forma",
+      "mismo",
+      "caso",
+      "tipo",
+      "sino",
+      "arco",
+      "otro",
+      "cual",
+      "paso",
+      "zona",
+      "mano",
+      "lado",
+      "cabo",
+      "pocos",
+      "cuya",
+      "acto",
+      "casi",
+      "apodo",
+      "ello",
+      "cara",
+      "corto",
+      "hora",
+      "tema",
+      "tiro",
+      "globo",
+      "cita",
+      "goma"
+    ],
+    "tokens": [
+      "co",
+      "m",
+      "o"
+    ],
+    "definition": "Palabra auxiliar que indica comparación o relación de condición, usada en oraciones como 'si alguien te pega un balón, dale una patada' para expresar acciones contingentes o consecuentes del suceso inicial.",
+    "example": "'Si tenemos un tiro de penalti, yo le doy a Mario para que lo convierta en gol.'"
+  },
+  {
+    "term": "para",
+    "variants": [
+      "parte",
+      "cerca",
+      "pies",
+      "pases",
+      "marcar",
+      "marcan",
+      "hacia",
+      "gran",
+      "palabra",
+      "fifa",
+      "haya",
+      "usar",
+      "banda",
+      "pocas",
+      "llama",
+      "tarde",
+      "habla",
+      "tras",
+      "base",
+      "hasta",
+      "sale",
+      "pausa",
+      "liga",
+      "otra",
+      "aparte",
+      "tarea",
+      "deba",
+      "pase",
+      "parar",
+      "pasar",
+      "parada",
+      "pierda",
+      "hace",
+      "tirar",
+      "logra",
+      "encara",
+      "otras",
+      "ahora",
+      "vita",
+      "pararse",
+      "padre"
+    ],
+    "tokens": [
+      "p",
+      "ar",
+      "a"
+    ],
+    "definition": "En fútbol, el término 'para' se refiere a una situación en la que un jugador del equipo contrario interfiere con el control de la pelota para evitar que otro jugador marque un gol. Una vez que se concede el 'para', la jugada sigue sin contar como gol.",
+    "example": "El defensa contrario interfirió en la jugada para que nuestro atacante no pudiera marcar."
+  },
+  {
+    "term": "guardameta",
+    "variants": [
+      "guardametas"
+    ],
+    "tokens": [
+      "gu",
+      "ar",
+      "da",
+      "me",
+      "ta"
+    ],
+    "definition": "Jugador de fútbol que protege la portería durante el partido.",
+    "example": "El guardameta salvó dos tiros penal en la final del campeonato."
+  },
+  {
+    "term": "equipo",
+    "variants": [
+      "equipos",
+      "estilo",
+      "quien"
+    ],
+    "tokens": [
+      "e",
+      "q",
+      "u",
+      "i",
+      "po"
+    ],
+    "definition": "Un equipo en deportes, especialmente fútbol, es un conjunto de jugadores que representan a una institución o país en competencias oficiales. Los equipos tienen un entrenador y juegan entre sí siguiendo las reglas del deporte.",
+    "example": "El Real Madrid es uno de los mejores equipos de fútbol del mundo."
+  },
+  {
+    "term": "tiempo",
+    "variants": [
+      "ejemplo",
+      "tienen",
+      "siempre",
+      "siendo"
+    ],
+    "tokens": [
+      "ti",
+      "e",
+      "m",
+      "po"
+    ],
+    "definition": "En fútbol, el término 'tiempo' se refiere a la duración total de un partido, que generalmente consta de dos mitades, cada una con una duración de 45 minutos. También se emplea para referirse a los instantes en que la posesión del balón cambia entre los equipos.",
+    "example": "El tiempo se detuvo por un saque libre debido a una falta."
+  },
+  {
+    "term": "deporte",
+    "variants": [
+      "deportes",
+      "depende",
+      "delante",
+      "recorre"
+    ],
+    "tokens": [
+      "de",
+      "po",
+      "r",
+      "te"
+    ],
+    "definition": "Deporte es la actividad física que se practica de forma competitiva, generalmente con reglas establecidas. Ejemplos: fútbol, baloncesto, natación.",
+    "example": "El equipo local ganó el partido de fútbol contra el rival con un gol en el último minuto."
+  },
+  {
+    "term": "durante",
+    "variants": [
+      "volante"
+    ],
+    "tokens": [
+      "d",
+      "u",
+      "ra",
+      "nt",
+      "e"
+    ],
+    "definition": "En relación a deportes, 'durante' se refiere al período de tiempo en que se juega un partido. Ejemplo: 'El equipo de fútbol ganó durante los 90 minutos reglamentarios.'",
+    "example": ""
+  },
+  {
+    "term": "nombre",
+    "variants": [
+      "sobre",
+      "logre",
+      "hombre"
+    ],
+    "tokens": [
+      "n",
+      "o",
+      "m",
+      "b",
+      "re"
+    ],
+    "definition": "Nombre es el apodo, sobrenombre o nombre completo que se le asigna a un futbolista para diferenciarlo de otros en un equipo. Es una forma común de referirse a un jugador.",
+    "example": "El número 10 del Real Madrid recientemente cambió su nombre y es ahora conocido como 'El Ché'."
+  },
+  {
+    "term": "partido",
+    "variants": [
+      "portero",
+      "partidos",
+      "marcado",
+      "activo"
+    ],
+    "tokens": [
+      "p",
+      "ar",
+      "ti",
+      "do"
+    ],
+    "definition": "En deportes, un partido es una competición o encuentro de fútbol entre dos equipos. El objetivo es marcar más goles para ganar.",
+    "example": "El partido de fútbol entre Argentina y Brasil terminó empatado a dos goles."
+  },
+  {
+    "term": "pueden",
+    "variants": [
+      "deben",
+      "suelen",
+      "pierde",
+      "vuelven"
+    ],
+    "tokens": [
+      "p",
+      "u",
+      "e",
+      "de",
+      "n"
+    ],
+    "definition": "En deportes, 'pueden' significa 'tienen la posibilidad de'.",
+    "example": "'El equipo local puede ganar este partido si juegan con disciplina y firmeza.'"
+  },
+  {
+    "term": "entre",
+    "variants": [
+      "este",
+      "estos",
+      "dentro",
+      "tres",
+      "tener",
+      "once",
+      "estas",
+      "lento",
+      "estar",
+      "extrema"
+    ],
+    "tokens": [
+      "en",
+      "tr",
+      "e"
+    ],
+    "definition": "Espacio entre dos jugadores o equipos sobre el campo de fútbol donde se juega la pelota.",
+    "example": "El mediocampista debió cortar el entre para pasar la pelota al delantero."
+  },
+  {
+    "term": "terreno",
+    "variants": [
+      "decreto"
+    ],
+    "tokens": [
+      "te",
+      "r",
+      "re",
+      "n",
+      "o"
+    ],
+    "definition": "Área de juego en un partido de fútbol, delimitada por líneas o marcaciones y con dimensiones específicas. Es el escenario donde se disputa la partida.",
+    "example": "El terreno de juego es una pradera de césped cuadrangular con una superficie de 105 metros de largo por 68 metros de ancho."
+  },
+  {
+    "term": "debe",
+    "variants": [
+      "donde",
+      "serie",
+      "diez",
+      "haber",
+      "recibe",
+      "debido",
+      "ideal",
+      "sean",
+      "decide",
+      "desean",
+      "decir",
+      "dejar",
+      "desde"
+    ],
+    "tokens": [
+      "de",
+      "b",
+      "e"
+    ],
+    "definition": "En fútbol, 'debe' significa que una acción es obligatoria o necesaria. Por ejemplo: el arquero debe tapar el arco.",
+    "example": "El defensa debe marcar al delantero de la contrincante."
+  },
+  {
+    "term": "goles",
+    "variants": [
+      "cuales",
+      "ellas",
+      "islas",
+      "zonas",
+      "golero",
+      "postes",
+      "colores"
+    ],
+    "tokens": [
+      "g",
+      "o",
+      "l",
+      "es"
+    ],
+    "definition": "Goles son el número total de anotaciones que ha conseguido un jugador o equipo durante una partida de fútbol.",
+    "example": "Lionel Messi marcó tres goles en la última final de la Copa del Mundo."
+  },
+  {
+    "term": "reglas",
+    "variants": [
+      "regla",
+      "regate",
+      "regule",
+      "siglos",
+      "secas"
+    ],
+    "tokens": [
+      "re",
+      "g",
+      "la",
+      "s"
+    ],
+    "definition": "Reglas son normas establecidas para guiar el desarrollo del juego en un deporte, como el fútbol. Son una serie de leyes por las que se rigen los jugadores y arbitrajes.",
+    "example": "El portero no puede tocar la pelota con las manos fuera del área penal. Esto es una regla importante del fútbol."
+  },
+  {
+    "term": "cuando",
+    "variants": [
+      "cuatro",
+      "cuenta",
+      "jugando",
+      "quedando",
+      "mirando",
+      "acuerdo",
+      "tanto"
+    ],
+    "tokens": [
+      "c",
+      "ua",
+      "nd",
+      "o"
+    ],
+    "definition": "En deportes, 'cuando' se refiere a tiempo específico o circunstancias concretas en las que suceden determinados eventos. En fútbol, puede referirse a un momento determinado del partido.",
+    "example": "El gol se marcó cuando tenían una desventaja de dos goles."
+  },
+  {
+    "term": "delanteros",
+    "variants": [
+      "delantero"
+    ],
+    "tokens": [
+      "de",
+      "la",
+      "nt",
+      "er",
+      "os"
+    ],
+    "definition": "Los delanteros son los jugadores de fútbol que juegan cerca de la portería contraria, su objetivo es marcar goles.",
+    "example": "El delantero de nuestro equipo anotó dos goles en el partido de la liga."
+  },
+  {
+    "term": "defensas",
+    "variants": [
+      "defensa",
+      "defensores",
+      "defensivo",
+      "defensor"
+    ],
+    "tokens": [
+      "de",
+      "f",
+      "en",
+      "s",
+      "as"
+    ],
+    "definition": "Defensas son los jugadores que forman la línea de defensa en un equipo de fútbol, cuya función es bloquear el ataque del rival, proteger la portería y permitir el desplazamiento del centro del campo y los atacantes.",
+    "example": "El capitán del equipo le dio la oportunidad a dos defensas juveniles para que jugaran en la próxima final."
+  },
+  {
+    "term": "centrocampistas",
+    "variants": [
+      "centrocampista"
+    ],
+    "tokens": [
+      "c",
+      "en",
+      "tr",
+      "o",
+      "ca",
+      "m",
+      "p",
+      "is",
+      "ta",
+      "s"
+    ],
+    "definition": "Jugadores de fútbol que se desempeñan entre la defensa y el ataque, en la línea media o centro del campo. Tienen como misión controlar el juego, balancear la ofensiva y defensiva y ayudar a los extremos en el ataque.",
+    "example": "El centrocampista de la selección es clave para el balance entre defensa y ataque."
+  },
+  {
+    "term": "mayor",
+    "variants": [
+      "manos",
+      "menos",
+      "hacer",
+      "lados",
+      "valor"
+    ],
+    "tokens": [
+      "m",
+      "a",
+      "y",
+      "or"
+    ],
+    "definition": "Jugador más antiguo de un equipo, que no es goleador.",
+    "example": "El jugador mayor del equipo es Juan Pérez con 37 años."
+  },
+  {
+    "term": "rival",
+    "variants": [
+      "rivales",
+      "final",
+      "total",
+      "nivel",
+      "vital",
+      "usual",
+      "mitad"
+    ],
+    "tokens": [
+      "ri",
+      "v",
+      "al"
+    ],
+    "definition": "Un rival es otro equipo con el que se compite en un deporte, en particular en fútbol. Es aquel que disputa partidos contra usted.",
+    "example": "El Real Madrid tiene como rivales al Fútbol Club Barcelona y al Atlético de Madrid."
+  },
+  {
+    "term": "principal",
+    "variants": [
+      "principales"
+    ],
+    "tokens": [
+      "pr",
+      "in",
+      "ci",
+      "p",
+      "al"
+    ],
+    "definition": "En deportes, principal se refiere a algo destacado o relevante. En fútbol, puede referirse al portero que inicia el partido o al jugador clave del equipo.",
+    "example": "El portero es el principal en nuestro equipo."
+  },
+  {
+    "term": "aunque",
+    "variants": [
+      "toque",
+      "ataque",
+      "ataques"
+    ],
+    "tokens": [
+      "a",
+      "u",
+      "n",
+      "q",
+      "u",
+      "e"
+    ],
+    "definition": "Conjunción que indica una condición o hipótesis. En fútbol, se utiliza para establecer una situación hipotética en la cual el resultado puede ser diferente si un suceso ocurre.",
+    "example": "Si el portero no hubiera cometido falta, aún podríamos ganar. Aunque cometió falta, perdimos."
+  },
+  {
+    "term": "llevar",
+    "variants": [
+      "lleva",
+      "frenar",
+      "lugar",
+      "llena"
+    ],
+    "tokens": [
+      "l",
+      "l",
+      "e",
+      "v",
+      "ar"
+    ],
+    "definition": "Llevar es cuando un jugador mantiene el control del balón durante la acción del juego. También se utiliza para indicar que un equipo está ganando en una partida.",
+    "example": "El futbolista llevó el balón hasta la zona de gol."
+  },
+  {
+    "term": "cualquier",
+    "variants": [],
+    "tokens": [
+      "c",
+      "ua",
+      "l",
+      "q",
+      "u",
+      "ie",
+      "r"
+    ],
+    "definition": "Cualquier se refiere a cualquier jugador o equipo que puede ser utilizado en un partido de fútbol. No importa si son titulares, suplentes o reservas.",
+    "example": "El entrenador decidió poner al portero suplente en el campo debido a la lesión del titular. A partir de ese momento, cualquier jugador podía ser sustituido."
+  },
+  {
+    "term": "objetivo",
+    "variants": [],
+    "tokens": [
+      "o",
+      "b",
+      "j",
+      "e",
+      "ti",
+      "v",
+      "o"
+    ],
+    "definition": "En deportes, objetivo se refiere al punto marcado en el campo donde se debe colocar la pelota para que un equipo obtenga puntos. En fútbol, los objetivos son las porterías.",
+    "example": "El defensa hizo una excelente intervención y evitó que el delantero rival marcase gol en nuestra portería."
+  },
+  {
+    "term": "misma",
+    "variants": [
+      "mucha",
+      "dicha",
+      "fiesta"
+    ],
+    "tokens": [
+      "m",
+      "is",
+      "m",
+      "a"
+    ],
+    "definition": "En fútbol, 'misma' hace referencia al partido de ida y vuelta entre dos equipos, en el cual el ganador es determinado después de haber jugado ambas partidos.",
+    "example": "El equipo local gana la misma por 2-1 en el encuentro de ida y pierde en el de vuelta por 3-0. Así, el visitante se proclama campeón."
+  },
+  {
+    "term": "conocido",
+    "variants": [
+      "conocida",
+      "conocidos"
+    ],
+    "tokens": [
+      "co",
+      "n",
+      "o",
+      "ci",
+      "do"
+    ],
+    "definition": "Un jugador o equipo que se ha destacado por su éxito o regularidad en el fútbol.",
+    "example": "Lionel Messi es un conocido futbolista argentino."
+  },
+  {
+    "term": "arquero",
+    "variants": [
+      "arqueada"
+    ],
+    "tokens": [
+      "ar",
+      "q",
+      "u",
+      "er",
+      "o"
+    ],
+    "definition": "Jugador especializado en lanzar el balón a lo largo del campo, utilizando el pie o la pierna. Tiene la capacidad de definir juegos por su habilidad para disparar precisamente.",
+    "example": "El arquero es quien protege la meta; en este partido fue fundamental al detener un penalti crucial."
+  },
+  {
+    "term": "balones",
+    "variants": [
+      "millones"
+    ],
+    "tokens": [
+      "b",
+      "al",
+      "on",
+      "es"
+    ],
+    "definition": "Balones son objetos esféricos que utilizan los jugadores en el fútbol para marcar goles. Son de cuero recubierto de plástico con alrededor de 70 centímetros de diámetro.",
+    "example": "Durante el partido, el portero atajó un potente tiro del delantero que golpeaba el balón a más de 160 kilómetros por hora."
+  },
+  {
+    "term": "football",
+    "variants": [],
+    "tokens": [
+      "f",
+      "o",
+      "o",
+      "t",
+      "b",
+      "al",
+      "l"
+    ],
+    "definition": "Deporte de equipo que se practica con una pelota redonda, consistente en anotar un gol pateando la pelota con los pies mientras la defienden otros jugadores. Tiene muchas variedades, entre las que destaca el fútbol (o futbol), conocido internacionalmente como soccer.",
+    "example": "El equipo de fútbol argentino es muy fuerte en la Copa Mundial de Fútbol."
+  },
+  {
+    "term": "otros",
+    "variants": [
+      "control",
+      "tiros",
+      "nosotros",
+      "esos",
+      "ambos",
+      "unos",
+      "roturas",
+      "altos",
+      "largos",
+      "varios"
+    ],
+    "tokens": [
+      "o",
+      "tr",
+      "os"
+    ],
+    "definition": "En fútbol, 'otros' se refiere a los jugadores que no tienen el estatus de titular. Pueden ser suplentes o integrantes del equipo reserva.",
+    "example": "El entrenador decidió iniciar con un once titular y colocó al portero titular en la banca, mientras que 'otros' jugadores ocuparon sus posiciones."
+  },
+  {
+    "term": "minutos",
+    "variants": [
+      "tantos"
+    ],
+    "tokens": [
+      "m",
+      "in",
+      "u",
+      "to",
+      "s"
+    ],
+    "definition": "Tiempo reglamentado para jugar una parte del partido de fútbol, normalmente dividido en dos mitades y cuatro partes (cuatro minutos adicionales por mitad).",
+    "example": "El partido terminó con un empate 1-1, pero los dirigentes decidieron que se jugaran cinco minutos de tiempo añadido."
+  },
+  {
+    "term": "cantidad",
+    "variants": [
+      "capacidad"
+    ],
+    "tokens": [
+      "ca",
+      "nt",
+      "id",
+      "ad"
+    ],
+    "definition": "En deportes, cantidad se refiere a la cifra de veces que un jugador o equipo ha realizado alguna acción relevante durante el partido, como anotar goles o cometer faltas. Por ejemplo: 'El futbolista ha marcado 30 goles en 5 temporadas' o 'El equipo ha tenido 12 faltas a favor durante la final.'",
+    "example": "'El jugador ha registrado 4 asistencias en los últimos partidos'"
+  },
+  {
+    "term": "superior",
+    "variants": [
+      "inferior"
+    ],
+    "tokens": [
+      "s",
+      "u",
+      "p",
+      "er",
+      "io",
+      "r"
+    ],
+    "definition": "Posee el mayor nivel jerárquico o categoría, en el deporte del fútbol. Es la división más alta de competición.",
+    "example": "El Real Madrid juega en la Primera División española, que es superior a Segunda División."
+  },
+  {
+    "term": "intentan",
+    "variants": [
+      "aumentan",
+      "interna",
+      "intentarlo",
+      "intentar"
+    ],
+    "tokens": [
+      "in",
+      "te",
+      "nt",
+      "an"
+    ],
+    "definition": "Acción de intentar marcar gol desde una posición difícil o lejos del arco contrario.",
+    "example": "El delantero intentó, pero no pudo concretar el gol desde fuera del área."
+  },
+  {
+    "term": "profesional",
+    "variants": [
+      "profesionales"
+    ],
+    "tokens": [
+      "pr",
+      "o",
+      "f",
+      "es",
+      "io",
+      "na",
+      "l"
+    ],
+    "definition": "En deportes, profesional se refiere a aquellos que ejercen el fútbol como actividad laboral y reciben un salario por ella. Estos jugadores tienen contratos con equipos de liga.",
+    "example": "Lionel Messi es un profesional del fútbol, ya que juega en Barcelona y recibe sueldo por ello."
+  },
+  {
+    "term": "posiciones",
+    "variants": [
+      "posicionados",
+      "condiciones"
+    ],
+    "tokens": [
+      "po",
+      "si",
+      "ci",
+      "on",
+      "es"
+    ],
+    "definition": "Posiciones en fútbol son roles tácticos definidos para los jugadores en cada equipo, como el del guardameta, defensas, centrocampistas y delanteros. Cada posición tiene funciones específicas en la ejecución de las acciones ofensivas y defensivas.",
+    "example": "El defensor central es una posición clave en el campo debido a su papel en la cobertura y control de los ataques oponentes."
+  },
+  {
+    "term": "ofensivo",
+    "variants": [
+      "efectivo"
+    ],
+    "tokens": [
+      "o",
+      "f",
+      "en",
+      "si",
+      "v",
+      "o"
+    ],
+    "definition": "Relativo a la ofensiva, es decir, al juego de ataque del fútbol. Es aquello que tiene como objeto marcar un gol y avanzar hacia la zona contraria.",
+    "example": "El centrocampista se posicionó en el centro del campo para apoyar el ataque ofensivo."
+  },
+  {
+    "term": "trabajo",
+    "variants": [
+      "abajo"
+    ],
+    "tokens": [
+      "tr",
+      "a",
+      "b",
+      "a",
+      "j",
+      "o"
+    ],
+    "definition": "Acción que realiza un jugador o equipo para avanzar el balón hacia la meta contraria, mediante pases, tiros, faltas o cualquier otra acción legítima.",
+    "example": "El delantero realizó un trabajo para pasarle al lateral izquierdo, quien entonces lanzó un centro que el atacante convirtió en gol."
+  },
+  {
+    "term": "generalmente",
+    "variants": [],
+    "tokens": [
+      "g",
+      "en",
+      "er",
+      "al",
+      "me",
+      "nt",
+      "e"
+    ],
+    "definition": "Generalmente se refiere a un patrón o tendencia común que se observa en muchos casos pero no siempre. En el contexto de los deportes, puede referirse a una estrategia o comportamiento típico de un jugador o equipo.",
+    "example": "Los delanteros suelen buscar la zaga para encontrar espacio y marcar goles, pero eso no siempre es posible."
+  },
+  {
+    "term": "lesiones",
+    "variants": [
+      "ocasiones",
+      "misiones"
+    ],
+    "tokens": [
+      "l",
+      "es",
+      "io",
+      "ne",
+      "s"
+    ],
+    "definition": "Lesiones son heridas o daños físicos que pueden sufrir los deportistas en el transcurso de un partido, especialmente en el fútbol.",
+    "example": "El futbolista sufrió una lesión en la rodilla durante el partido y no pudo continuar jugando."
+  },
+  {
+    "term": "controlar",
+    "variants": [
+      "controlarlo"
+    ],
+    "tokens": [
+      "co",
+      "nt",
+      "ro",
+      "la",
+      "r"
+    ],
+    "definition": "Actividad de dirigir el juego dentro del campo de fútbol mediante la posición, movimientos y pasadas tácticas.",
+    "example": "El mediocampista controla el juego al dominar la zona central con su inteligencia y capacidad para distribuir las bolas."
+  },
+  {
+    "term": "carnaval",
+    "variants": [],
+    "tokens": [
+      "ca",
+      "r",
+      "na",
+      "v",
+      "al"
+    ],
+    "definition": "Carnaval es un torneo de fútbol que se lleva a cabo durante la temporada carnavalera, normalmente en Brasil.",
+    "example": "El Carnaval de Río de Janeiro es el más famoso entre los torneos de fútbol que se juegan durante el carnaval."
+  },
+  {
+    "term": "futbol",
+    "variants": [],
+    "tokens": [
+      "f",
+      "u",
+      "t",
+      "b",
+      "o",
+      "l"
+    ],
+    "definition": "Deporte colectivo consistente en marcar goles con una pelota mediante el uso de los pies, jugando en un campo delimitado y regido por unas normas específicas. Es conocido popularmente como 'fútbol'.",
+    "example": "Jugamos fútbol este fin de semana. La selección nacional es la mejor del mundo."
+  },
+  {
+    "term": "mientras",
+    "variants": [],
+    "tokens": [
+      "m",
+      "ie",
+      "nt",
+      "ra",
+      "s"
+    ],
+    "definition": "Mientras significa 'en el mismo tiempo que' o 'durante la misma acción que'. En fútbol, se utiliza para indicar acciones consecutivas que suceden durante la jugada.",
+    "example": "Tomo el balón y corro con él mientras mi oponente intenta despejarme."
+  },
+  {
+    "term": "algunos",
+    "variants": [],
+    "tokens": [
+      "al",
+      "gu",
+      "n",
+      "os"
+    ],
+    "definition": "Algunos se refiere a un grupo indeterminado de personas o equipos en relación con el deporte del fútbol.",
+    "example": "Algunos de los equipos más fuertes son Barcelona, Madrid y Atlético."
+  },
+  {
+    "term": "mayoritariamente",
+    "variants": [],
+    "tokens": [
+      "m",
+      "a",
+      "y",
+      "or",
+      "i",
+      "ta",
+      "ri",
+      "am",
+      "en",
+      "te"
+    ],
+    "definition": "En deportes, mayoritariamente se refiere a que una parte debe ser superior en número a la otra para obtener una ventaja o un resultado determinado. Por ejemplo, en fútbol, el equipo que tiene más jugadores en el área del arco contrario puede obtener una ventaja debido a las reglas sobre la posición y el número mínimo de jugadores.",
+    "example": "El equipo local obtuvo una mayoritariamente por tener seis jugadores en el área del arco contrario, lo que permitió que su arquero pudiera sacar de emergencia sin ningún compañero defensor cerca."
+  },
+  {
+    "term": "americano",
+    "variants": [],
+    "tokens": [
+      "am",
+      "er",
+      "ic",
+      "an",
+      "o"
+    ],
+    "definition": "Persona de origen estadounidense que practica o apoya el fútbol americano. En deportes, se refiere a alguien que juega en la NFL.",
+    "example": "Es un entrenador muy importante en la NFL, aunque no es un americano."
+  },
+  {
+    "term": "totalmente",
+    "variants": [
+      "solamente"
+    ],
+    "tokens": [
+      "to",
+      "ta",
+      "l",
+      "me",
+      "nt",
+      "e"
+    ],
+    "definition": "En deportes, 'totalmente' se utiliza para significar que algo o alguien ha logrado lo máximo posible en un momento determinado.",
+    "example": "El atacante anotó cuatro goles y su equipo ganó 'totalmente', porque anotó tanto antes del descanso."
+  },
+  {
+    "term": "brazos",
+    "variants": [
+      "rasgos"
+    ],
+    "tokens": [
+      "b",
+      "ra",
+      "z",
+      "os"
+    ],
+    "definition": "En deportes, los brazos se refiere a las partes del cuerpo ubicadas entre el hombro y la mano, utilizadas para dirigir, detener o golpear el balón. También pueden ser usados en combate físico con otros jugadores.",
+    "example": "La defensa es imprescindible para bloquear los ataques de los delanteros, utilizando sus brazos con precisión y fuerza."
+  },
+  {
+    "term": "contrario",
+    "variants": [
+      "contacto"
+    ],
+    "tokens": [
+      "co",
+      "nt",
+      "ra",
+      "ri",
+      "o"
+    ],
+    "definition": "En deportes, el contrario es el equipo o jugador que no está en el mismo lado del campo de juego. En fútbol, el contrario al equipo local suele ser llamado el visitante.",
+    "example": "El gol del contrario fue un golazo que hizo el delantero del equipo visitante."
+  },
+  {
+    "term": "denomina",
+    "variants": [
+      "determina",
+      "domina"
+    ],
+    "tokens": [
+      "de",
+      "n",
+      "o",
+      "m",
+      "in",
+      "a"
+    ],
+    "definition": "Denominarse refiere a la designación que recibe un equipo o jugador de fútbol. Es habitual que un equipo tenga el nombre de una ciudad, región u otra entidad geográfica relevante.",
+    "example": "El Real Madrid es conocido como Los Blancos y es el denominado por muchos como el mejor club del mundo."
+  },
+  {
+    "term": "ganador",
+    "variants": [],
+    "tokens": [
+      "g",
+      "an",
+      "ad",
+      "or"
+    ],
+    "definition": "En deportes, el ganador es la entidad que obtiene la victoria en un partido o evento. Es el equipo o jugador que consigue más puntos o goles.",
+    "example": "El Barcelona fue el ganador del Mundial de Clubes en 2015"
+  },
+  {
+    "term": "encuentro",
+    "variants": [
+      "encuentre",
+      "encuentra",
+      "encuentran",
+      "encuentros"
+    ],
+    "tokens": [
+      "en",
+      "c",
+      "u",
+      "en",
+      "tr",
+      "o"
+    ],
+    "definition": "Partido de fútbol que se juega entre dos equipos, en el marco de una competición organizada.",
+    "example": "El encuentro del sábado entre Real Madrid y Atlético de Madrid será televisado por todos los canales deportivos."
+  },
+  {
+    "term": "organismo",
+    "variants": [],
+    "tokens": [
+      "or",
+      "g",
+      "an",
+      "is",
+      "m",
+      "o"
+    ],
+    "definition": "En el deporte del fútbol, un organismo es una entidad que administra y regula la actividad en un nivel específico. Ejemplo: La Federación Internacional de Fútbol Asociación (FIFA) es el organismo máximo mundial que administra el deporte.",
+    "example": "La FIFA es el organismo que establece las reglas para los torneos internacionales."
+  },
+  {
+    "term": "tocar",
+    "variants": [
+      "soccer",
+      "buscar"
+    ],
+    "tokens": [
+      "to",
+      "ca",
+      "r"
+    ],
+    "definition": "En fútbol, tocar significa manipular la pelota de alguna manera para avanzar o realizar acciones ofensivas. Puede ser con el pie, la mano (si se permite el jugador por regla) o cualquier parte del cuerpo.",
+    "example": "El delantero tocó la pelota con su cabeza y envió un tiro de gol perfecto."
+  },
+  {
+    "term": "recuperar",
+    "variants": [
+      "recuperados"
+    ],
+    "tokens": [
+      "re",
+      "c",
+      "u",
+      "p",
+      "er",
+      "ar"
+    ],
+    "definition": "Recuperar significa recuperar la posesión del balón después de perderla. En fútbol, es una tarea importante para el equipo que no tiene el balón.",
+    "example": "El defensor tuvo que correr mucho para recuperar y evitar que el oponente atacara."
+  },
+  {
+    "term": "grandes",
+    "variants": [],
+    "tokens": [
+      "g",
+      "ra",
+      "nd",
+      "es"
+    ],
+    "definition": "En deportes, 'grandes' se refiere a los equipos o jugadores de gran prestigio y popularidad en el fútbol. Son considerados como los más importantes debido a su historial, éxitos y seguimiento masivo.",
+    "example": "El Real Madrid es uno de los grandes del fútbol internacional."
+  },
+  {
+    "term": "volantes",
+    "variants": [
+      "potentes",
+      "violentos"
+    ],
+    "tokens": [
+      "v",
+      "o",
+      "la",
+      "nt",
+      "es"
+    ],
+    "definition": "En fútbol, volantes son los jugadores que juegan como mediocampistas de contención y creación. Su rol es mantener el equilibrio entre defensa y ataque.",
+    "example": "Los volantes deben coordinar las acciones del equipo para evitar que la ofensiva se desbarate y, al mismo tiempo, poder impulsar los contraataques."
+  },
+  {
+    "term": "movimiento",
+    "variants": [
+      "movimientos"
+    ],
+    "tokens": [
+      "m",
+      "o",
+      "v",
+      "i",
+      "m",
+      "ie",
+      "nt",
+      "o"
+    ],
+    "definition": "Son acciones consecutivas de los jugadores para avanzar el balón por el campo. Cada movimiento debe ser ejecutado con precisión y estrategia.",
+    "example": "El movimiento en forma de 'V' permitió a la delantera llegar al área goleadora."
+  },
+  {
+    "term": "futbolista",
+    "variants": [
+      "futbolistas"
+    ],
+    "tokens": [
+      "f",
+      "u",
+      "t",
+      "b",
+      "o",
+      "li",
+      "st",
+      "a"
+    ],
+    "definition": "Jugador de fútbol, deporte que consiste en golpear una pelota con los pies dentro de un campo delimitado, para marcar más goles que el equipo contrario.",
+    "example": "El futbolista Messi anotó tres goles y lleva a su equipo al triunfo."
+  },
+  {
+    "term": "arbitral",
+    "variants": [],
+    "tokens": [
+      "ar",
+      "b",
+      "i",
+      "tr",
+      "al"
+    ],
+    "definition": "Relativo al arbitraje, determinado por un árbitro en el deporte del fútbol.",
+    "example": "El árbitro arbitral señaló un penal a favor del equipo local."
+  },
+  {
+    "term": "camiseta",
+    "variants": [
+      "camisetas"
+    ],
+    "tokens": [
+      "ca",
+      "m",
+      "is",
+      "e",
+      "ta"
+    ],
+    "definition": "Camiseta es la indumentaria utilizada por los jugadores de fútbol que identifica su equipo. Es de color distinto al del contrario.",
+    "example": "El arquero vestía una camiseta amarilla, mientras que el resto del equipo usaba camisetas blancas."
+  },
+  {
+    "term": "ubicado",
+    "variants": [
+      "ubicados"
+    ],
+    "tokens": [
+      "u",
+      "b",
+      "ic",
+      "ad",
+      "o"
+    ],
+    "definition": "En deportes, ubicado se refiere a la posición o el lugar que ocupa un jugador en el campo de juego. Es importante para estrategias tácticas.",
+    "example": "El delantero se encuentra muy bien ubicado en la zaga rival."
+  },
+  {
+    "term": "detener",
+    "variants": [
+      "detiene",
+      "detenerse",
+      "mantener"
+    ],
+    "tokens": [
+      "de",
+      "te",
+      "ne",
+      "r"
+    ],
+    "definition": "Detenerse refiere a que un jugador del fútbol se detenga o parada momentáneamente en el juego. Es una acción deliberada para evitar ser marcado, anticipar una jugada o dar espacio a otros compañeros.",
+    "example": "El defensor tuvo que detenerse rápidamente al ver que el delantero del rival se soltó hacia su área."
+  },
+  {
+    "term": "reciben",
+    "variants": [
+      "recibir"
+    ],
+    "tokens": [
+      "re",
+      "ci",
+      "b",
+      "en"
+    ],
+    "definition": "Gol que se marca desde un tiro de esquina.",
+    "example": "El delantero marcó reciben a los dos minutos de juego."
+  },
+  {
+    "term": "laterales",
+    "variants": [
+      "lateral"
+    ],
+    "tokens": [
+      "la",
+      "te",
+      "ra",
+      "l",
+      "es"
+    ],
+    "definition": "En fútbol, laterales se refiere a los defensores que juegan a ambos lados de la defensa central. Su función es ayudar al centro y al lateral izquierdo o derecho en el control defensivo y ofensivo.",
+    "example": "El lateral derecho marcó un hermoso gol de tiro libre en la victoria por 3-2."
+  },
+  {
+    "term": "derecho",
+    "variants": [
+      "dicho",
+      "derechos",
+      "derecha",
+      "cerebro",
+      "directo",
+      "hecho"
+    ],
+    "tokens": [
+      "de",
+      "re",
+      "c",
+      "h",
+      "o"
+    ],
+    "definition": "Concepto que regula los hechos y relaciones en el ámbito del fútbol, desde la organización de las competiciones hasta la regulación del juego.",
+    "example": "El delantero fue amonestado por falta grave, violando así el derecho deportivo a jugar con justicia."
+  },
+  {
+    "term": "mediocampista",
+    "variants": [
+      "mediocampistas"
+    ],
+    "tokens": [
+      "me",
+      "di",
+      "o",
+      "ca",
+      "m",
+      "p",
+      "is",
+      "ta"
+    ],
+    "definition": "Jugador que juega en la posición del mediocampo en un equipo de fútbol.",
+    "example": "El mediocampista se encarga de conectar el ataque con la defensa, como hace Totti en la selección italiana."
+  },
+  {
+    "term": "funciones",
+    "variants": [],
+    "tokens": [
+      "f",
+      "u",
+      "nc",
+      "io",
+      "ne",
+      "s"
+    ],
+    "definition": "Funciones son acciones específicas que realiza un jugador dentro del partido de fútbol. Pueden ser ofensivas o defensivas.",
+    "example": "La función de gol de Messi fue exitosa al anotar el tercer tanto."
+  },
+  {
+    "term": "carrileros",
+    "variants": [],
+    "tokens": [
+      "ca",
+      "r",
+      "ri",
+      "l",
+      "er",
+      "os"
+    ],
+    "definition": "Jugadores de fútbol que juegan en las posiciones laterales del campo, especialmente en defensa o ataque.",
+    "example": "Los carrileros son cruciales para controlar el espacio y evitar contraataques enemigos."
+  },
+  {
+    "term": "importante",
+    "variants": [
+      "importancia"
+    ],
+    "tokens": [
+      "i",
+      "m",
+      "po",
+      "r",
+      "ta",
+      "nt",
+      "e"
+    ],
+    "definition": "En deportes, un jugador o equipo importante es el que tiene una gran influencia en los resultados del partido. Típicamente, es el que tiene habilidades sobresalientes y se destaca por su contribución al equipo.",
+    "example": "El capitán de la selección es un jugador importante debido a su habilidad para dirigir el juego en el campo."
+  },
+  {
+    "term": "velocidad",
+    "variants": [],
+    "tokens": [
+      "v",
+      "e",
+      "l",
+      "o",
+      "ci",
+      "da",
+      "d"
+    ],
+    "definition": "Velocidad es la rapidez con que un jugador o una pelota se desplaza en el campo de fútbol.",
+    "example": "La velocidad de Messi es impresionante, lo que le permite correr más rápido que casi todos sus adversarios."
+  },
+  {
+    "term": "esencial",
+    "variants": [
+      "presencia"
+    ],
+    "tokens": [
+      "es",
+      "en",
+      "ci",
+      "al"
+    ],
+    "definition": "En fútbol, un jugador esencial es aquel que es crucial para el juego de la equipo debido a su habilidad técnica, rendimiento o papel en el esquema del mismo.",
+    "example": "Mesut Özil es esencial para Arsenal debido a sus excelentes pases clave y su inteligencia en el campo."
+  },
+  {
+    "term": "preparador",
+    "variants": [],
+    "tokens": [
+      "pr",
+      "e",
+      "p",
+      "ar",
+      "ad",
+      "or"
+    ],
+    "definition": "Un preparador es un entrenador que dirige al equipo de fútbol en su preparación física, táctica y estratégica para los partidos. Trabaja con la formación, el juego y las decisiones del mismo.",
+    "example": "El preparador es quien decide cómo debe entrenar al equipo antes de cada partido para que logre su mejor rendimiento."
+  },
+  {
+    "term": "primer",
+    "variants": [
+      "primera",
+      "primeras",
+      "origen",
+      "primeros"
+    ],
+    "tokens": [
+      "pr",
+      "i",
+      "me",
+      "r"
+    ],
+    "definition": "El primer partido de un equipo en una competición o temporada.",
+    "example": "En la primera jornada del campeonato, nuestro equipo jugó contra el rival local."
+  },
+  {
+    "term": "posterior",
+    "variants": [
+      "posteriores"
+    ],
+    "tokens": [
+      "po",
+      "st",
+      "er",
+      "io",
+      "r"
+    ],
+    "definition": "Espacio situado detrás del centro del campo, en la defensa. También se refiere a los jugadores que actúan allí.",
+    "example": "El lateral derecho debe cubrir el espacio posterior cuando el delantero contrario intenta entrar por allí."
+  },
+  {
+    "term": "conseguir",
+    "variants": [
+      "consigue"
+    ],
+    "tokens": [
+      "co",
+      "n",
+      "s",
+      "e",
+      "gu",
+      "i",
+      "r"
+    ],
+    "definition": "Alcanzar un resultado deseado, como ganar un partido o marcar un gol.",
+    "example": "El equipo logró conseguir la victoria al marcar dos goles en los últimos minutos."
+  },
+  {
+    "term": "precisos",
+    "variants": [
+      "precisa"
+    ],
+    "tokens": [
+      "pr",
+      "ec",
+      "is",
+      "os"
+    ],
+    "definition": "Precisos se refiere a los lanzamientos que son precisos y controlados en el deporte del fútbol, particularmente en la ejecución de tiros libres y penales.",
+    "example": "El arquero defendió el penal con una gran agilidad, pero el atacante marcó gol con un disparo preciso."
+  },
+  {
+    "term": "hacerlo",
+    "variants": [
+      "acerca",
+      "ponerlo",
+      "pasarlo"
+    ],
+    "tokens": [
+      "h",
+      "a",
+      "c",
+      "er",
+      "l",
+      "o"
+    ],
+    "definition": "Referido a realizar una jugada en el deporte del fútbol.",
+    "example": "El mediocampista hizo un pase largo para darle al centrodelantero la oportunidad de marcar."
+  },
+  {
+    "term": "potencia",
+    "variants": [
+      "violencia"
+    ],
+    "tokens": [
+      "po",
+      "te",
+      "nc",
+      "ia"
+    ],
+    "definition": "En deportes, potencia es la capacidad física para generar fuerza y movimiento. Se refiere al impulso con el que se ejecutan acciones como el disparo o el remate.",
+    "example": "Jugador A demuestra su potencia al rematar potentemente el balón a lo largo del área, convirtiendo el gol decisivo."
+  },
+  {
+    "term": "actual",
+    "variants": [
+      "natural",
+      "altura",
+      "altas"
+    ],
+    "tokens": [
+      "a",
+      "c",
+      "t",
+      "ua",
+      "l"
+    ],
+    "definition": "Actual se refiere al momento presente, pero en el contexto del deporte, especialmente en fútbol, significa que es lo más reciente. Por ejemplo: 'El marcador actual del partido es de 1 a 0'.",
+    "example": "Luego de la suspensión, el árbitro anunció un cambio temporal, para volver al estado inicial del juego, pero este no era el estado actual"
+  },
+  {
+    "term": "desarrollaron",
+    "variants": [
+      "desarrollado",
+      "desarrolla",
+      "desarrollar"
+    ],
+    "tokens": [
+      "de",
+      "s",
+      "ar",
+      "ro",
+      "l",
+      "la",
+      "ro",
+      "n"
+    ],
+    "definition": "Ambiente de trabajo donde un equipo de entrenadores, técnicos y jugadores desarrollan una estrategia para competir en un partido de fútbol.",
+    "example": "El entrenador convocó a los mejores jugadores del equipo para desarrollar una estrategia contra el rival en la próxima final."
+  },
+  {
+    "term": "siglo",
+    "variants": [
+      "libro",
+      "ligero"
+    ],
+    "tokens": [
+      "si",
+      "g",
+      "l",
+      "o"
+    ],
+    "definition": "Un siglo es un período de tiempo equivalente a cien años, utilizado para marcar la evolución histórica del deporte en general y el fútbol en particular. Por ejemplo: 'El siglo XX fue de gran importancia para el desarrollo del fútbol, con la creación de la FIFA en 1904.'",
+    "example": ""
+  },
+  {
+    "term": "dieron",
+    "variants": [
+      "bien",
+      "diversos"
+    ],
+    "tokens": [
+      "di",
+      "er",
+      "on"
+    ],
+    "definition": "Un dieron es un tiro o pase de balón que se realiza hacia adelante con la intención de que el compañero que lo recibe lo vuelva a tocar de nuevo para avanzar, generalmente en el ataque.",
+    "example": "El delantero le dio un dieron al volante para que continuara su carrera por el flanco derecho."
+  },
+  {
+    "term": "jesuita",
+    "variants": [
+      "resulta"
+    ],
+    "tokens": [
+      "j",
+      "es",
+      "u",
+      "i",
+      "ta"
+    ],
+    "definition": "Jesuita es una estrategia de juego que consiste en hacer un gol de espaldas, generalmente cuando se ha perdido el balón y se pierde la posesión.",
+    "example": "Después de perder la posesión durante varios ataques consecutivos, el equipo contrario atacaba sin descanso. Sin embargo, sorprendentemente, lograron marcar un gol de espaldas al jugador jesuita."
+  },
+  {
+    "term": "jugaban",
+    "variants": [
+      "jugada",
+      "jugaba"
+    ],
+    "tokens": [
+      "j",
+      "u",
+      "g",
+      "a",
+      "b",
+      "an"
+    ],
+    "definition": "Jugaban es el tiempo o actividad en que los jugadores de un equipo de fútbol compiten entre sí, intentando anotar gol en la portería contraria. El juego consiste en movimientos coordinados para avanzar la pelota hasta el área de ataque rival.",
+    "example": "El equipo español jugaba contra los italianos y lograron ganar cuatro goles a cero."
+  },
+  {
+    "term": "prohibido",
+    "variants": [],
+    "tokens": [
+      "pr",
+      "o",
+      "h",
+      "i",
+      "b",
+      "id",
+      "o"
+    ],
+    "definition": "Expresión que designa una acción o comportamiento ilegal dentro del deporte del fútbol, sancionado con sanciones por parte de la autoridad reguladora.",
+    "example": "El jugador recibió una tarjeta roja por haber golpeado al oponente, por lo tanto fue prohibido durante el resto del partido."
+  },
+  {
+    "term": "xvii",
+    "variants": [
+      "iii"
+    ],
+    "tokens": [
+      "x",
+      "v",
+      "i",
+      "i"
+    ],
+    "definition": "XVII significa la edición XVII de una competición deportiva, como el Campeonato Mundial de Fútbol. Es un término utilizado en ocasiones para referirse a las fases finales de la Copa del Mundo.",
+    "example": "El partido de cuartos de final entre Alemania y Francia pertenece al grupo de partidos que conforman la edición XVII de la Copa Mundial."
+  },
+  {
+    "term": "conjuntos",
+    "variants": [],
+    "tokens": [
+      "co",
+      "n",
+      "j",
+      "u",
+      "nt",
+      "os"
+    ],
+    "definition": "Conjuntos son grupos de equipos que compiten entre sí en distintas competiciones de fútbol, generalmente por región o país.",
+    "example": "El campeonato argentino está integrado por dos conjuntos: el Torneo de Apertura y el Torneo de Clausura."
+  },
+  {
+    "term": "ocupan",
+    "variants": [
+      "cumplan",
+      "cuyas",
+      "ocurren",
+      "crean",
+      "cepag"
+    ],
+    "tokens": [
+      "o",
+      "c",
+      "u",
+      "p",
+      "an"
+    ],
+    "definition": "En fútbol, ocupar se refiere a la posición que un jugador debe tener para cubrir una área del campo, impedir que el rival pase o ataque y mantener equilibrio en la formación. Esto es importante para evitar sorpresas o vacíos defensivos.",
+    "example": "El delantero debía ocupar la banda derecha, ya que nuestro lateral estaba lesionado."
+  },
+  {
+    "term": "normas",
+    "variants": [
+      "formas"
+    ],
+    "tokens": [
+      "n",
+      "or",
+      "m",
+      "as"
+    ],
+    "definition": "Reglas establecidas para regular el juego del fútbol y su aplicación durante los partidos.",
+    "example": "Los arbitrajes deben respetar las normas establecidas por la FIFA."
+  },
+  {
+    "term": "correctamente",
+    "variants": [],
+    "tokens": [
+      "co",
+      "r",
+      "re",
+      "c",
+      "ta",
+      "me",
+      "nt",
+      "e"
+    ],
+    "definition": "En deportes, correctamente se refiere a realizar una acción de acuerdo con las reglas establecidas. Por ejemplo: El arquero falló al defender el penal porque le tocaba detenerlo correctamente.",
+    "example": "El árbitro señaló que la jugada no fue correcta porque el delantero había golpeado fuera de juego."
+  },
+  {
+    "term": "ampliamente",
+    "variants": [],
+    "tokens": [
+      "am",
+      "p",
+      "li",
+      "am",
+      "en",
+      "te"
+    ],
+    "definition": "En deportes, 'ampliamente' significa que se da una victoria o un resultado en gran medida. Es decir, con ventaja aplastante.",
+    "example": "El equipo local ganó ampliamente por 5-0."
+  },
+  {
+    "term": "considerado",
+    "variants": [],
+    "tokens": [
+      "co",
+      "n",
+      "si",
+      "de",
+      "ra",
+      "do"
+    ],
+    "definition": "En deportes, considerado se refiere a un jugador que posee habilidades y cualidades reconocidas por sus pares o por los entrenadores. Este término se usa habitualmente para describir al mejor del equipo.",
+    "example": "El arquero de nuestro equipo es considerado el mejor defensa en la liga."
+  },
+  {
+    "term": "popular",
+    "variants": [
+      "populares"
+    ],
+    "tokens": [
+      "po",
+      "p",
+      "u",
+      "la",
+      "r"
+    ],
+    "definition": "Aplicado a un equipo o jugador que tiene gran simpatía o popularidad entre los aficionados, independientemente de sus resultados en el campo.",
+    "example": "El Barcelona es un club popular debido a su pasado histórico y su estilo de juego."
+  },
+  {
+    "term": "practican",
+    "variants": [
+      "practica",
+      "practicaban"
+    ],
+    "tokens": [
+      "pr",
+      "a",
+      "c",
+      "ti",
+      "ca",
+      "n"
+    ],
+    "definition": "Un practican es un jugador que juega partidos de entrenamiento o amistosos, pero no forma parte del plantel oficial del equipo.",
+    "example": "El practican está participando en el partido amistoso para adquirir más experiencia antes de un posible fichaje por el club."
+  },
+  {
+    "term": "unas",
+    "variants": [
+      "buenas"
+    ],
+    "tokens": [
+      "u",
+      "na",
+      "s"
+    ],
+    "definition": "En deportes, unas son las marcas o líneas que delimitan la zona de penal en el campo de fútbol.",
+    "example": "El jugador se encontraba dentro de las unas cuando cometió una falta."
+  },
+  {
+    "term": "personas",
+    "variants": [],
+    "tokens": [
+      "p",
+      "er",
+      "s",
+      "on",
+      "as"
+    ],
+    "definition": "En deportes, personas se refiere a jugadores o miembros de un equipo. Por ejemplo, en fútbol, las personas son los futbolistas que integran una plantilla.",
+    "example": "El entrenador analiza las estrategias para el próximo partido con sus personas."
+  },
+  {
+    "term": "derivado",
+    "variants": [
+      "dirigido"
+    ],
+    "tokens": [
+      "de",
+      "ri",
+      "v",
+      "ad",
+      "o"
+    ],
+    "definition": "Un derivado es un equipo de fútbol formado por una selección regional, nacional o club filial.",
+    "example": "El Club Atlético de Madrid tiene dos equipos derivados: el Atlético Baleares y el Atlético Sanluqueño"
+  },
+  {
+    "term": "oficial",
+    "variants": [
+      "inicial"
+    ],
+    "tokens": [
+      "o",
+      "f",
+      "ic",
+      "ia",
+      "l"
+    ],
+    "definition": "Relativo a un ente competente, como una federación o asociación deportiva reconocida, en el fútbol. Es aquello que se regula y organiza oficialmente por dichos entes.",
+    "example": "El partido de fútbol es oficial porque está organizado por la Federación Internacional de Fútbol Asociación (FIFA) y la Confederación Sudamericana de Fútbol (CONMEBOL)."
+  },
+  {
+    "term": "distinguirlo",
+    "variants": [
+      "distinguir"
+    ],
+    "tokens": [
+      "di",
+      "st",
+      "in",
+      "gu",
+      "i",
+      "r",
+      "l",
+      "o"
+    ],
+    "definition": "Distinguirlo significa identificar claramente a un jugador del equipo contrario, usualmente para señalar faltas o penales.",
+    "example": "El juez distinguió al delantero rival al cobrar el penal de tiro libre."
+  },
+  {
+    "term": "incluyen",
+    "variants": [
+      "incluido",
+      "incluye",
+      "incluso"
+    ],
+    "tokens": [
+      "in",
+      "c",
+      "l",
+      "u",
+      "y",
+      "en"
+    ],
+    "definition": "Incluyen se refiere a la selección de jugadores que participan en un mismo equipo en el fútbol. Es decir, aquellos jugadores que tienen derecho a vestir la camiseta del mismo equipo en las competiciones oficiales.",
+    "example": "El equipo A incluye al portero X, los defensas Y y Z, así como a los delanteros A y B."
+  },
+  {
+    "term": "inglesa",
+    "variants": [
+      "finales"
+    ],
+    "tokens": [
+      "in",
+      "g",
+      "l",
+      "es",
+      "a"
+    ],
+    "definition": "Pitch, el espacio de juego en fútbol inglés.",
+    "example": "El portero colocó la pelota en el área y la defendió con gran efectividad en su propia zona, manteniendo una limpia en el campo de juego."
+  },
+  {
+    "term": "abreviatura",
+    "variants": [],
+    "tokens": [
+      "a",
+      "b",
+      "re",
+      "v",
+      "ia",
+      "t",
+      "u",
+      "ra"
+    ],
+    "definition": "Abreviatura es un término que se refiere a una forma breve y reconocible de escribir o representar un nombre completo, una frase o un concepto específico. En el deporte del fútbol, las abreviaturas son muy comunes para identificar a los equipos, partidos, competencias o estados del juego.",
+    "example": "EL CL es la abreviatura de El Clásico, que se refiere al partido entre Real Madrid y FC Barcelona."
+  },
+  {
+    "term": "association",
+    "variants": [],
+    "tokens": [
+      "as",
+      "s",
+      "o",
+      "ci",
+      "a",
+      "ti",
+      "on"
+    ],
+    "definition": "Asociación es un grupo de clubes de fútbol que compiten bajo una misma regla y normativa en torneos organizados. Estas asociaciones pueden ser nacionales o regionales.",
+    "example": "El campeonato de la Liga Argentina de Fútbol es una competencia entre clubes afiliados a la Asociación del Fútbol Argentino."
+  },
+  {
+    "term": "asocia",
+    "variants": [
+      "propia"
+    ],
+    "tokens": [
+      "as",
+      "o",
+      "ci",
+      "a"
+    ],
+    "definition": "Asociar, en deportes, significa unir a los jugadores de diferentes equipos para que jueguen como si fueran del mismo equipo durante una práctica o partida. Permite mejorar la coordinación y el rendimiento colectivo.",
+    "example": "Los entrenadores decidieron asociar dos de sus mejores jugadores para que pudieran desarrollar un buen juego ofensivo en este partido."
+  },
+  {
+    "term": "principalmente",
+    "variants": [],
+    "tokens": [
+      "pr",
+      "in",
+      "ci",
+      "p",
+      "al",
+      "me",
+      "nt",
+      "e"
+    ],
+    "definition": "En deportes, principalmente se refiere a lo que es principal o más importante. En fútbol, puede referirse al jugador o equipo que tiene el papel clave en la acción.",
+    "example": "El jugador centrodelatajo tiene un papel principalmente decisivo en la defensa y ofensiva del equipo."
+  },
+  {
+    "term": "aplica",
+    "variants": [
+      "arriba"
+    ],
+    "tokens": [
+      "a",
+      "p",
+      "li",
+      "ca"
+    ],
+    "definition": "Técnica utilizada por un jugador para patear el balón hacia un compañero o bloquear un intento de gol del oponente.",
+    "example": "El defensa aplica para evitar que el delantero oponente marque un gol."
+  },
+  {
+    "term": "distinto",
+    "variants": [
+      "distintos"
+    ],
+    "tokens": [
+      "di",
+      "st",
+      "in",
+      "to"
+    ],
+    "definition": "En fútbol, distinto se refiere a jugadores de equipos contrarios que juegan en diferentes posiciones para tener una estrategia más eficiente.",
+    "example": "Los delanteros son distintos de los laterales porque deben saber cómo combinar sus habilidades para anotar goles."
+  },
+  {
+    "term": "rectangular",
+    "variants": [],
+    "tokens": [
+      "re",
+      "c",
+      "ta",
+      "n",
+      "gu",
+      "la",
+      "r"
+    ],
+    "definition": "Rectangular se refiere a un campo de juego de fútbol, que tiene la forma de un rectángulo.",
+    "example": "El partido de fútbol será en el campo de juego rectangular."
+  },
+  {
+    "term": "artificial",
+    "variants": [],
+    "tokens": [
+      "ar",
+      "ti",
+      "f",
+      "ic",
+      "ia",
+      "l"
+    ],
+    "definition": "Relacionado con los sistemas de juego controlados por computadoras o inteligencia artificial.",
+    "example": "El equipo rival utilizó un portero artificial para defender los ataques."
+  },
+  {
+    "term": "mediante",
+    "variants": [
+      "mediados"
+    ],
+    "tokens": [
+      "me",
+      "di",
+      "an",
+      "te"
+    ],
+    "definition": "Mediante se refiere al método de ejecución o la forma en que se realiza una técnica en el fútbol, como un pase, un tiroteo o un saque de esquina. ",
+    "example": "El jugador realizó un pase mediante un centro a gol con la cabeza."
+  },
+  {
+    "term": "desplazar",
+    "variants": [
+      "despistar",
+      "disparar"
+    ],
+    "tokens": [
+      "de",
+      "s",
+      "p",
+      "la",
+      "z",
+      "ar"
+    ],
+    "definition": "Mover el balón a otro lugar del campo, con la intención de progresar hacia el área de ataque o crear una oportunidad ofensiva.",
+    "example": "El mediocampista desplazó el balón desde su defensa hasta el centro, donde su compañero lo acertó en un tiro."
+  },
+  {
+    "term": "introducirla",
+    "variants": [],
+    "tokens": [
+      "in",
+      "tr",
+      "o",
+      "d",
+      "u",
+      "ci",
+      "r",
+      "la"
+    ],
+    "definition": "En deportes, 'introducirla' se refiere a la técnica de pasar el balón hacia la portería adversaria con un movimiento oblicuo e imprevisto.",
+    "example": "El jugador introdujo la pelota por la esquina derecha para sorprender al guardameta y abrir paso al compañero que marcó el gol."
+  },
+  {
+    "term": "moderno",
+    "variants": [],
+    "tokens": [
+      "m",
+      "o",
+      "de",
+      "r",
+      "n",
+      "o"
+    ],
+    "definition": "Relativo a los tiempos contemporáneos, caracterizado por la incorporación de nuevas técnicas, reglas y estilos en el fútbol.",
+    "example": "El uso del balón redondo es un ejemplo de la modernidad en el fútbol."
+  },
+  {
+    "term": "reinventado",
+    "variants": [],
+    "tokens": [
+      "re",
+      "in",
+      "v",
+      "en",
+      "ta",
+      "do"
+    ],
+    "definition": "Reinventado es un jugador de fútbol que reinvierte su estilo de juego o se convierte en clave en una posición diferente del campo, demostrando adaptabilidad y versatilidad.",
+    "example": "El exdefensa lateral ha reinventado su carrera como volante por derecha y es ahora el jugador clave para nuestro equipo."
+  },
+  {
+    "term": "actualidad",
+    "variants": [
+      "actividad"
+    ],
+    "tokens": [
+      "a",
+      "c",
+      "t",
+      "ua",
+      "li",
+      "da",
+      "d"
+    ],
+    "definition": "Actualidad en deportes es la información reciente sobre el fútbol, como resultados de partidos, noticias relevantes y actualizaciones. También se refiere a los temas actualmente discutibles.",
+    "example": "El resultado del partido Real Madrid contra Barcelona es la actualidad en el mundo del fútbol hoy."
+  },
+  {
+    "term": "rector",
+    "variants": [
+      "resto"
+    ],
+    "tokens": [
+      "re",
+      "c",
+      "to",
+      "r"
+    ],
+    "definition": "En deportes, el rector es la persona encargada de dirigir y administrar un equipo de fútbol. Es usualmente el entrenador principal.",
+    "example": "El rector del Real Madrid es Zinedine Zidane."
+  },
+  {
+    "term": "internacional",
+    "variants": [],
+    "tokens": [
+      "in",
+      "te",
+      "r",
+      "na",
+      "ci",
+      "on",
+      "al"
+    ],
+    "definition": "Es lo que se refiere a relaciones, eventos o competiciones entre equipos de fútbol de diferentes países.",
+    "example": "El Mundial de Fútbol es un torneo internacional en el que participan selecciones nacionales de todo el mundo."
+  },
+  {
+    "term": "prestigiosa",
+    "variants": [],
+    "tokens": [
+      "pr",
+      "es",
+      "ti",
+      "g",
+      "io",
+      "s",
+      "a"
+    ],
+    "definition": "Connota al equipo o jugador que tiene más éxito y reconocimiento a nivel internacional.",
+    "example": "El Real Madrid es un club prestigioso del fútbol español."
+  },
+  {
+    "term": "organizada",
+    "variants": [
+      "organizados"
+    ],
+    "tokens": [
+      "or",
+      "g",
+      "an",
+      "i",
+      "z",
+      "ad",
+      "a"
+    ],
+    "definition": "Organizada se refiere a un sistema o estructura ordenada en una organización deportiva, específicamente en el fútbol, que implica la administración eficiente de equipos, jugadores y recursos para lograr objetivos comunes.",
+    "example": "En el club de fútbol organizado, se han puesto en práctica estrategias de desarrollo juvenil sistemáticas para producir jugadores talentosos."
+  },
+  {
+    "term": "evento",
+    "variants": [
+      "excepto"
+    ],
+    "tokens": [
+      "e",
+      "v",
+      "en",
+      "to"
+    ],
+    "definition": "Un evento en deportes, específicamente en fútbol, es una acción relevante ocurrida durante un partido que afecta al resultado final. Ejemplo: 'El defensa marcó un gol de cabeza para igualar el encuentro.'",
+    "example": ""
+  },
+  {
+    "term": "famoso",
+    "variants": [
+      "tampoco"
+    ],
+    "tokens": [
+      "f",
+      "am",
+      "os",
+      "o"
+    ],
+    "definition": "En deportes, especialmente fútbol, un jugador o equipo conocido por sus grandes actuaciones a nivel nacional e internacional.",
+    "example": "El jugador Lionel Messi es famoso por ser uno de los mejores del mundo en el fútbol actual."
+  },
+  {
+    "term": "espectadores",
+    "variants": [],
+    "tokens": [
+      "es",
+      "p",
+      "ec",
+      "ta",
+      "do",
+      "re",
+      "s"
+    ],
+    "definition": "Espectadores son los individuos que asisten a un encuentro deportivo, en este caso al fútbol, y observan el desarrollo del mismo desde afuera del campo de juego.",
+    "example": "A pesar de la lluvia, el estadio estuvo lleno con espectadores emocionados esperando que su equipo marque el gol decisivo."
+  },
+  {
+    "term": "doblando",
+    "variants": [],
+    "tokens": [
+      "do",
+      "b",
+      "la",
+      "nd",
+      "o"
+    ],
+    "definition": "Movimiento técnico que consiste en dar un paso hacia atrás y seguidamente adelante para crear un espacio o confundir a un defensor.",
+    "example": "El delantero dobló al defensor izquierdo y pudo mandar un centro perfecto para que el centrodelaportera anotara."
+  },
+  {
+    "term": "audiencia",
+    "variants": [],
+    "tokens": [
+      "a",
+      "u",
+      "di",
+      "en",
+      "ci",
+      "a"
+    ],
+    "definition": "El término 'audiencia' en deportes, especialmente en fútbol, se refiere al conjunto de personas que observan un partido. En este contexto, se habla de audiencias televisivas o de presencia en estadios.",
+    "example": "La audiencia televisiva del partido fue muy alta esta noche."
+  },
+  {
+    "term": "siguiendo",
+    "variants": [],
+    "tokens": [
+      "si",
+      "gu",
+      "ie",
+      "nd",
+      "o"
+    ],
+    "definition": "Siguiendo, en fútbol, se refiere a la acción de seguir a un jugador rival con la finalidad de presionarlo y recuperar el balón. Es fundamental para impedir que el oponente avance.",
+    "example": "El delantero defensor sigue al atacante para presionarlo cuando tiene posesión del balón y evitar que penetre en nuestra zona defensiva."
+  },
+  {
+    "term": "llamadas",
+    "variants": [
+      "llamados"
+    ],
+    "tokens": [
+      "l",
+      "la",
+      "m",
+      "ad",
+      "as"
+    ],
+    "definition": "En fútbol, llamadas son las señales que el árbitro da para indicar una falta o situación importante durante el partido.",
+    "example": "El árbitro dio una llama y sancionó a un jugador por una falta en el área."
+  },
+  {
+    "term": "oficialmente",
+    "variants": [],
+    "tokens": [
+      "o",
+      "f",
+      "ic",
+      "ia",
+      "l",
+      "me",
+      "nt",
+      "e"
+    ],
+    "definition": "Oficialmente se refiere a los partidos de fútbol que son reconocidos por la entidad reguladora del deporte, lo cual significa que se respetan las reglas establecidas y se realiza con la supervisión de un árbitro oficial.",
+    "example": "El partido entre Barcelona y Real Madrid fue oficioso ya que tuvo el aprobado por la RFEF (Real Federación Española de Fútbol)."
+  },
+  {
+    "term": "material",
+    "variants": [
+      "materia"
+    ],
+    "tokens": [
+      "m",
+      "a",
+      "te",
+      "ri",
+      "al"
+    ],
+    "definition": "En deportes, un material es un objeto o sustancia utilizada para la práctica de los mismos. Ejemplo: La pelota utilizada en un partido de fútbol.",
+    "example": "El jugador debería usar un material apropiado en cada campo."
+  },
+  {
+    "term": "circunferencia",
+    "variants": [],
+    "tokens": [
+      "ci",
+      "r",
+      "c",
+      "u",
+      "n",
+      "f",
+      "er",
+      "en",
+      "ci",
+      "a"
+    ],
+    "definition": "Área circular que define la distancia entre un punto fijo en el campo de juego, como el centro del arco, y cualquier punto en la circunferencia que describe su perímetro. En fútbol, una falta de circunferencia se comete cuando un jugador toca el balón dentro de esta área.",
+    "example": "El goleador rival anotó un gol desde la circunferencia al marcar un penalti."
+  },
+  {
+    "term": "comienzo",
+    "variants": [
+      "compensa"
+    ],
+    "tokens": [
+      "co",
+      "m",
+      "ie",
+      "n",
+      "z",
+      "o"
+    ],
+    "definition": "El comienzo es el inicio del juego de fútbol, punto en el que se lanza la pelota para comenzar el partido o la mitad. También puede referirse al primer encuentro de una competición.",
+    "example": "El equipo local empezó con un gol de cabeza en el comienzo del partido."
+  },
+  {
+    "term": "compiten",
+    "variants": [],
+    "tokens": [
+      "co",
+      "m",
+      "p",
+      "i",
+      "te",
+      "n"
+    ],
+    "definition": "Compiten significa jugar entre equipos para determinar el mejor. En fútbol, esto se refiere a los partidos de campeonato o torneos.",
+    "example": "El equipo local compite contra el rival en la final del campeonato de liga."
+  },
+  {
+    "term": "encajar",
+    "variants": [
+      "encajando"
+    ],
+    "tokens": [
+      "en",
+      "ca",
+      "j",
+      "ar"
+    ],
+    "definition": "Acción de situar un pie o la pelota exactamente en el espacio necesario, especialmente para anotar gol.",
+    "example": "El delantero encaja el penal con precisión al esquinas."
+  },
+  {
+    "term": "marcando",
+    "variants": [
+      "marcados"
+    ],
+    "tokens": [
+      "m",
+      "ar",
+      "ca",
+      "nd",
+      "o"
+    ],
+    "definition": "En deportes, marcar significa tener responsabilidad de cubrir a un jugador del otro equipo para evitar que pueda jugar o interfiera en el juego propio. Es una estrategia común en fútbol.",
+    "example": "El defensa tiene que marcar al delantero rival para impedirle recibir la pelota y poder atacar."
+  },
+  {
+    "term": "entonces",
+    "variants": [
+      "enganches"
+    ],
+    "tokens": [
+      "en",
+      "to",
+      "nc",
+      "es"
+    ],
+    "definition": "En fútbol, entonces se refiere a la siguiente acción de un jugador después de haber recibido el balón.",
+    "example": "El defensa recibe el balón y lo patea entonces hacia adelante para un contragolpe."
+  },
+  {
+    "term": "declara",
+    "variants": [
+      "destaca",
+      "adecuada"
+    ],
+    "tokens": [
+      "de",
+      "c",
+      "la",
+      "ra"
+    ],
+    "definition": "En fútbol, declarar es la acción de indicar a un arbitraje, a los jugadores o al público que se llevará a cabo una falta o infracción por parte del oponente. También puede referirse a una protesta o reclamo ante el árbitro.",
+    "example": "El defensa declaró la falta cometida por el delantero rival."
+  },
+  {
+    "term": "empate",
+    "variants": [],
+    "tokens": [
+      "e",
+      "m",
+      "p",
+      "a",
+      "te"
+    ],
+    "definition": "Empate es el resultado de un partido de fútbol donde no hay ganador al final del tiempo reglamentario, ya que ambas equipos tienen el mismo número de goles.",
+    "example": "El encuentro entre Real Madrid y Barcelona terminó en empate 2-2."
+  },
+  {
+    "term": "excepciones",
+    "variants": [],
+    "tokens": [
+      "e",
+      "x",
+      "c",
+      "e",
+      "p",
+      "ci",
+      "on",
+      "es"
+    ],
+    "definition": "En deportes, excepciones son situaciones o reglas especiales que difieren de las normales en ciertos casos.",
+    "example": "El árbitro concedió un tiro libre directo por excepción al haber cometido una falta más grave dentro del área."
+  },
+  {
+    "term": "resultado",
+    "variants": [],
+    "tokens": [
+      "re",
+      "s",
+      "u",
+      "l",
+      "ta",
+      "do"
+    ],
+    "definition": "La acción final de un juego o competición, en la que el equipo que anota más goles es declarado ganador. Es también el puntaje obtenido por el equipo al anotar un gol.",
+    "example": "El resultado del partido fue 3-2 a favor de la selección local."
+  },
+  {
+    "term": "intencionalmente",
+    "variants": [],
+    "tokens": [
+      "in",
+      "te",
+      "nc",
+      "io",
+      "na",
+      "l",
+      "me",
+      "nt",
+      "e"
+    ],
+    "definition": "Acción o decisión consciente realizada para obtener un resultado específico en el deporte, como el fútbol.",
+    "example": "El portero se movió intencionalmente hacia la derecha para desviar el penal."
+  },
+  {
+    "term": "saques",
+    "variants": [],
+    "tokens": [
+      "s",
+      "a",
+      "q",
+      "u",
+      "es"
+    ],
+    "definition": "Acciones irrumpentes o sobresalientes en la defensa que buscan interceptar el balón del atacante.",
+    "example": "El lateral izquierdo realizó un saque para evitar una oportunidad ofensiva de los rivales."
+  },
+  {
+    "term": "individual",
+    "variants": [],
+    "tokens": [
+      "in",
+      "di",
+      "v",
+      "id",
+      "ua",
+      "l"
+    ],
+    "definition": "En deportes, un individual es un jugador que juega en una posición ofensiva y está destinado a anotar goles. Típicamente, el delantero o el extremo son ejemplos de individuales.",
+    "example": "El atacante Messi es considerado uno de los mejores individuales del fútbol mundial debido a su habilidad para anotar goles en cualquier momento."
+  },
+  {
+    "term": "protegida",
+    "variants": [
+      "proteger"
+    ],
+    "tokens": [
+      "pr",
+      "o",
+      "te",
+      "g",
+      "id",
+      "a"
+    ],
+    "definition": "En fútbol, una jugadora que juega en la defensa o por el área defensiva, y su rol es proteger la meta.",
+    "example": "La portera y las defensoras forman un grupo llamado defensa, y sus responsabilidades son proteger a la meta del ataque contrario."
+  },
+  {
+    "term": "interceptando",
+    "variants": [],
+    "tokens": [
+      "in",
+      "te",
+      "r",
+      "c",
+      "e",
+      "p",
+      "ta",
+      "nd",
+      "o"
+    ],
+    "definition": "Manejar la posesión de un contrario para arrebatarle el balón o impidirle efectuar acciones ofensivas.",
+    "example": "El defensor interceptó el pase enemigo, evitando que el atacante aumentara su ventaja."
+  },
+  {
+    "term": "embargo",
+    "variants": [],
+    "tokens": [
+      "e",
+      "m",
+      "b",
+      "ar",
+      "g",
+      "o"
+    ],
+    "definition": "Restricción impuesta a un equipo o país en el deporte del fútbol que prohíbe participar en torneos internacionales o competir contra equipos específicos durante un período estipulado.",
+    "example": "El equipo nacional de fútbol fue sancionado con un embargo para los próximos dos torneos internacionales debido a la interferencia en las actividades del comité organizador."
+  },
+  {
+    "term": "limitado",
+    "variants": [],
+    "tokens": [
+      "li",
+      "m",
+      "i",
+      "ta",
+      "do"
+    ],
+    "definition": "En deportes, 'limitado' se refiere a un jugador que no tiene una gran capacidad para realizar actividades ofensivas o defensivas de un equipo. Ejemplo: El delantero es limitado en sus movimientos debido a su lesión.",
+    "example": "El volante es limitado en el partido debido a la falta de confianza que le impide desarrollar su juego ofensivo."
+  },
+  {
+    "term": "fluye",
+    "variants": [],
+    "tokens": [
+      "f",
+      "l",
+      "u",
+      "y",
+      "e"
+    ],
+    "definition": "En fútbol, 'fluye' se refiere a la sucesión de jugadas rápidas y sin interrupciones del juego continuo. A veces también se utiliza para describir el estilo de juego fluido e impredecible.",
+    "example": "El equipo utiliza un sistema de juego en el que todo fluye, lo que hace que la defensa enemiga no pueda predecir las jugadas."
+  },
+  {
+    "term": "libremente",
+    "variants": [],
+    "tokens": [
+      "li",
+      "b",
+      "re",
+      "me",
+      "nt",
+      "e"
+    ],
+    "definition": "En deportes, libremente se refiere a que un jugador no está marcado por ningún oponente. Es decir, puede moverse por el campo sin restricciones.",
+    "example": "El delantero se movió libremente en el campo y logró anotar el gol decisivo."
+  },
+  {
+    "term": "reinicia",
+    "variants": [],
+    "tokens": [
+      "re",
+      "in",
+      "ic",
+      "ia"
+    ],
+    "definition": "Reinicia se refiere a la acción de empezar un partido de fútbol nuevamente desde el principio debido a una causa externa. Por ejemplo: un partido puede reiniciarse si hay una interrupción por lluvia torrencial o una falta grave en el arco rival.",
+    "example": "El árbitro decidió reiniciar el partido después de que la lluvia empezara a caidar fuertemente."
+  },
+  {
+    "term": "diferentes",
+    "variants": [
+      "diferente"
+    ],
+    "tokens": [
+      "di",
+      "f",
+      "er",
+      "en",
+      "te",
+      "s"
+    ],
+    "definition": "Equipos de un partido de fútbol que juegan en uniformes diferentes para facilitar la identificación.",
+    "example": "El equipo local vestirá camiseta blanca y pantalón negro, mientras que el visitante vestirá camiseta amarilla y pantalón azul."
+  },
+  {
+    "term": "momentos",
+    "variants": [],
+    "tokens": [
+      "m",
+      "o",
+      "me",
+      "nt",
+      "os"
+    ],
+    "definition": "En deportes, un momento es una situación o acción clave en el partido que puede cambiar su desarrollo. Puede ser tanto positiva como negativa para la equipo.",
+    "example": "El gol de cabezazo de Messi a los 89 minutos fue un gran momento clave del partido."
+  },
+  {
+    "term": "temporada",
+    "variants": [
+      "semiparada"
+    ],
+    "tokens": [
+      "te",
+      "m",
+      "po",
+      "ra",
+      "da"
+    ],
+    "definition": "Período establecido para jugar una competición deportiva. Normalmente, consta de varios partidos entre diferentes equipos.",
+    "example": "La temporada de fútbol comienza en agosto y dura hasta mayo."
+  },
+  {
+    "term": "promedio",
+    "variants": [
+      "propio"
+    ],
+    "tokens": [
+      "pr",
+      "o",
+      "me",
+      "di",
+      "o"
+    ],
+    "definition": "Promedio es la media aritmética de los goles marcados por un jugador en cada partido durante una temporada o período específico. Es un indicador clave para evaluar la eficacia goleadora de un futbolista.",
+    "example": "El promedio de goles de Messi en la Liga Argentina de Fútbol es de 0,78 gol por partido."
+  },
+  {
+    "term": "especifican",
+    "variants": [],
+    "tokens": [
+      "es",
+      "p",
+      "ec",
+      "i",
+      "f",
+      "ic",
+      "an"
+    ],
+    "definition": "En deportes, especificar es definir de manera clara y precisa los términos, reglas o aspectos relevantes del juego. Por ejemplo: el juego se puede detener si un jugador no respetaba las distancias mínimas.",
+    "example": "El árbitro especificó que los jugadores deben mantener una distancia de 1 metro durante las tiro libres."
+  },
+  {
+    "term": "ninguna",
+    "variants": [],
+    "tokens": [
+      "n",
+      "in",
+      "gu",
+      "na"
+    ],
+    "definition": "Ninguna significa 'ninguna' o 'nada'. En el contexto del fútbol, se puede utilizar para referirse a un jugador que no está en el campo de juego, por ejemplo: 'No contamos con el delantero titular porque tiene una lesión y estará fuera de juego ninguna vez esta la clásica Real Madrid - Barcelona.'",
+    "example": "'El técnico decidió no colocar al lateral derecho titular en este partido, por lo que el equipo contará con ningún jugador experienciado en esa posición.'"
+  },
+  {
+    "term": "identifican",
+    "variants": [],
+    "tokens": [
+      "id",
+      "en",
+      "ti",
+      "f",
+      "ic",
+      "an"
+    ],
+    "definition": "Es el proceso de reconocer a un atleta mediante su identificación visual, en el deporte del fútbol se utiliza para detectar y sancionar al jugador que cometió una falta o una regla violada.",
+    "example": "El árbitro determinó que el jugador número 10 era el que había salido fuera de línea ofensiva, por lo que le impuso la identificación."
+  },
+  {
+    "term": "quienes",
+    "variants": [],
+    "tokens": [
+      "q",
+      "u",
+      "ie",
+      "ne",
+      "s"
+    ],
+    "definition": "El equipo que juega el partido o la competición.",
+    "example": "Los quienes disputan el título de la Liga son dos equipos fuertes."
+  },
+  {
+    "term": "manejan",
+    "variants": [
+      "manejo"
+    ],
+    "tokens": [
+      "m",
+      "an",
+      "e",
+      "j",
+      "an"
+    ],
+    "definition": "En deportes, manejar significa controlar o dominar el juego para obtener una ventaja estratégica. En fútbol, un jugador que maneja domina el balón y evita que lo pierda, dirigiéndolo hacia las zonas favorables de su equipo.",
+    "example": "El delantero es muy hábil y maneja el balón con facilidad en la cancha."
+  },
+  {
+    "term": "anteriores",
+    "variants": [],
+    "tokens": [
+      "an",
+      "te",
+      "ri",
+      "or",
+      "es"
+    ],
+    "definition": "Anteriores, en el contexto del deporte (específicamente fútbol), refiere a los partidos disputados anteriormente por un equipo.",
+    "example": "El equipo ha ganado sus últimos cuatro partidos anteriores."
+  },
+  {
+    "term": "diferenciarlos",
+    "variants": [],
+    "tokens": [
+      "di",
+      "f",
+      "er",
+      "en",
+      "ci",
+      "ar",
+      "l",
+      "os"
+    ],
+    "definition": "Diferenciarlos significa separar a los jugadores de una misma posición en el campo de fútbol. Por ejemplo, un delantero es diferenciado en un centrodelantero y un lateralderecha.",
+    "example": "El técnico decidió diferenciar a sus delanteros para aprovechar mejores opciones en ataque."
+  },
+  {
+    "term": "subdividen",
+    "variants": [],
+    "tokens": [
+      "s",
+      "u",
+      "b",
+      "di",
+      "v",
+      "id",
+      "en"
+    ],
+    "definition": "Dividir un equipo en dos o más grupos para jugar partidos de entrenamiento, eliminatorias, o torneos menores.",
+    "example": "El equipo dividió al primer y segundo equipo para jugar partidos amistosos en la pretemporada."
+  },
+  {
+    "term": "existir",
+    "variants": [
+      "evitar",
+      "existieron"
+    ],
+    "tokens": [
+      "e",
+      "x",
+      "is",
+      "ti",
+      "r"
+    ],
+    "definition": "En deportes, existir significa tener una presencia en un encuentro de fútbol. Esto puede referirse a que un jugador sea convocado o forme parte de la alineación inicial del equipo.",
+    "example": "El lateral derecho está lesionado, por lo que el entrenador tendrá que cambiar la titularidad para que otro jugador exista en el partido."
+  },
+  {
+    "term": "centrales",
+    "variants": [],
+    "tokens": [
+      "c",
+      "en",
+      "tr",
+      "al",
+      "es"
+    ],
+    "definition": "Las centrales son los jugadores que ocupan las posiciones de defensa central en un equipo de fútbol, es decir, la posición que se encuentra entre el lateral derecho y el lateral izquierdo.",
+    "example": "El central titular de nuestro equipo es un líder en la cancha y tiene mucha experiencia en defensa."
+  },
+  {
+    "term": "izquierdos",
+    "variants": [],
+    "tokens": [
+      "i",
+      "z",
+      "q",
+      "u",
+      "ie",
+      "r",
+      "do",
+      "s"
+    ],
+    "definition": "En deportes, como el fútbol, los izquierdos son aquellos jugadores que predominantemente utilizan su pie izquierdo para realizar las técnicas de juego. Son importantes debido a su habilidad en dirigir el balón con precisión.",
+    "example": "El lateral izquierdo es un jugador clave en la defensa, ya que su dominio del pie izquierdo le permite cubrir mejor las bandas de ataque de los oponentes."
+  },
+  {
+    "term": "distribuirse",
+    "variants": [],
+    "tokens": [
+      "di",
+      "st",
+      "ri",
+      "b",
+      "u",
+      "i",
+      "r",
+      "s",
+      "e"
+    ],
+    "definition": "Esporádicamente dispersarse por todo el campo de juego, especialmente para bloquear espacios y mantener la posición defensiva.",
+    "example": "El delantero se distribuyó en busca de oportunidades al ataque, pero al final su equipo no pudo convertir."
+  },
+  {
+    "term": "agresivo",
+    "variants": [],
+    "tokens": [
+      "a",
+      "g",
+      "re",
+      "si",
+      "v",
+      "o"
+    ],
+    "definition": "En deportes, agresivo se refiere a un jugador o equipo que juega de manera muy contundente y brusca, especialmente en el fútbol. Utiliza tácticas ofensivas para sacudir al rival.",
+    "example": "El conjunto local fue muy agresivo al inicio del partido, utilizando muchas presiones defensivas y lanzadas rápidas para romper la zaga contraria."
+  },
+  {
+    "term": "mantenerse",
+    "variants": [],
+    "tokens": [
+      "m",
+      "an",
+      "te",
+      "ne",
+      "r",
+      "s",
+      "e"
+    ],
+    "definition": "Conservación de la posición, manteniendo el control del balón o evitando que otro jugador lo haga.",
+    "example": "El portero se mantiene bien en su área para impedir goles."
+  },
+  {
+    "term": "restricciones",
+    "variants": [
+      "instrucciones"
+    ],
+    "tokens": [
+      "re",
+      "st",
+      "ri",
+      "c",
+      "ci",
+      "on",
+      "es"
+    ],
+    "definition": "Reglas o condiciones impuestas en un partido de fútbol que regulan la forma de jugar, como el número de jugadores por equipo y las posiciones en campo.",
+    "example": "El portero no puede tocar la pelota con las manos fuera del área del arco."
+  },
+  {
+    "term": "esquema",
+    "variants": [],
+    "tokens": [
+      "es",
+      "q",
+      "u",
+      "e",
+      "m",
+      "a"
+    ],
+    "definition": "Esquema se refiere a la organización del juego de un equipo en el campo de fútbol. Consiste en la posición y movimiento coordinados de los jugadores.",
+    "example": "El esquema 4-3-3 es el utilizado por el Real Madrid en esta temporada."
+  },
+  {
+    "term": "entrenador",
+    "variants": [],
+    "tokens": [
+      "en",
+      "tr",
+      "en",
+      "ad",
+      "or"
+    ],
+    "definition": "Entrenador es la persona responsable de dirigir y supervisar el entrenamiento físico, táctico y mental de un equipo de fútbol. Su papel incluye estrategias y preparación para los partidos.",
+    "example": "El entrenador dio instrucciones a sus jugadores antes del partido."
+  },
+  {
+    "term": "presentar",
+    "variants": [],
+    "tokens": [
+      "pr",
+      "es",
+      "en",
+      "ta",
+      "r"
+    ],
+    "definition": "En deportes, presentar significa dar la posibilidad a un jugador de tocar el balón, generalmente al realizar una pasada.",
+    "example": "El mediocampista presentó al delantero con un pase largo que terminó en gol."
+  },
+  {
+    "term": "abandonar",
+    "variants": [],
+    "tokens": [
+      "a",
+      "b",
+      "an",
+      "do",
+      "na",
+      "r"
+    ],
+    "definition": "Dejar de jugar al fútbol o desistir de un equipo durante la temporada. Cualquier situación que implique la pérdida temporal o permanente del compromiso con el equipo.",
+    "example": "El portero abandonó el equipo por problemas personales."
+  },
+  {
+    "term": "motivo",
+    "variants": [],
+    "tokens": [
+      "m",
+      "o",
+      "ti",
+      "v",
+      "o"
+    ],
+    "definition": "En deportes, motivo es una acción o circunstancia que justifica alguna decisión o acción de un jugador o equipo en el campo de juego.",
+    "example": "El motivo del desplazamiento defensivo de Juan era cubrir la falta de marcaje a su compañero."
+  },
+  {
+    "term": "sustituido",
+    "variants": [
+      "sustituto"
+    ],
+    "tokens": [
+      "s",
+      "u",
+      "st",
+      "i",
+      "t",
+      "u",
+      "id",
+      "o"
+    ],
+    "definition": "En deportes, sustituido es un jugador que entra en reemplazo de otro ya titular en el campo de juego.",
+    "example": "El mánager decidió sustituir al lesionado a los minutos finales del partido."
+  },
+  {
+    "term": "vestimenta",
+    "variants": [],
+    "tokens": [
+      "v",
+      "es",
+      "ti",
+      "me",
+      "nt",
+      "a"
+    ],
+    "definition": "Conjunto de indumentaria que utilizan los jugadores durante el juego del fútbol, compuesto por la camiseta, pantalón, medias y calzado.",
+    "example": "La vestimenta del equipo local es azul y blanca."
+  },
+  {
+    "term": "general",
+    "variants": [],
+    "tokens": [
+      "g",
+      "en",
+      "er",
+      "al"
+    ],
+    "definition": "En deportes, 'general' se refiere a aquellos que participan en la competición sin restricciones de posición. Son considerados como 'jugadores generales'.",
+    "example": "El entrenador decide incorporar más jugadores generales para reforzar el equipo debido al bajo rendimiento de algunos titulares."
+  },
+  {
+    "term": "estampado",
+    "variants": [],
+    "tokens": [
+      "es",
+      "ta",
+      "m",
+      "p",
+      "ad",
+      "o"
+    ],
+    "definition": "Técnica utilizada en el fútbol, consiste en dar un golpe continuo y fuerte a la pelota con pie para que se despliegue un patrón visual en el aire.",
+    "example": "El mediocampista ejecutó un hermoso estampado para poner la pelota en el área rival."
+  },
+  {
+    "term": "zagueros",
+    "variants": [],
+    "tokens": [
+      "z",
+      "a",
+      "gu",
+      "er",
+      "os"
+    ],
+    "definition": "Jugadores especializados en el zaguero centro, que tienen como objetivo mantener la defensa estable y ayudar a su equipo a avanzar hacia el ataque.",
+    "example": "El jugador central de la defensa es un excelente zagueros, lo que le permite dominar el campo de juego."
+  },
+  {
+    "term": "costados",
+    "variants": [
+      "cruzados"
+    ],
+    "tokens": [
+      "co",
+      "st",
+      "ad",
+      "os"
+    ],
+    "definition": "Los costados son las posiciones laterales de la defensa o del ataque que se desempeñan en las líneas laterales. Tienen el rol de apoyar al centro y controlar los flancos.",
+    "example": "El jugador costado debe defender bien su banda y proporcionar salida rápida para atacar."
+  },
+  {
+    "term": "stoppers",
+    "variants": [],
+    "tokens": [
+      "st",
+      "o",
+      "p",
+      "p",
+      "er",
+      "s"
+    ],
+    "definition": "Tiros especiales que se realizan para evitar que el arquero pueda salvar un tiro habitual, como la falta penal y el tiro libre directo.",
+    "example": "El jugador tomó un stopper desde cien metros de distancia para ganar ventaja en este juego."
+  },
+  {
+    "term": "avanzar",
+    "variants": [
+      "avanzados"
+    ],
+    "tokens": [
+      "a",
+      "v",
+      "an",
+      "z",
+      "ar"
+    ],
+    "definition": "Moverse hacia adelante en el terreno de juego para obtener ventaja, posicionarse mejor o llegar al arco contrario.",
+    "example": "El delantero avanzó a buscar la pelota y logró marcar el gol."
+  },
+  {
+    "term": "nombrarlos",
+    "variants": [],
+    "tokens": [
+      "n",
+      "o",
+      "m",
+      "b",
+      "ra",
+      "r",
+      "l",
+      "os"
+    ],
+    "definition": "Referirse a los jugadores que ingresan al campo a lo largo de un partido, en lugar de mencionar sus posiciones específicas.",
+    "example": "El entrenador decidió nombrarlos a Vidal y Sánchez para el encuentro contra el rival."
+  },
+  {
+    "term": "agrega",
+    "variants": [],
+    "tokens": [
+      "a",
+      "g",
+      "re",
+      "g",
+      "a"
+    ],
+    "definition": "En fútbol, 'agregar' se refiere al acto de meter el balón en el arco contrario. Ejemplo: El delantero agregó en la portería de su rival al finalizar un tiro libre.",
+    "example": "El delantero agregó en la portería de su rival al finalizar un tiro libre."
+  },
+  {
+    "term": "mediocampo",
+    "variants": [],
+    "tokens": [
+      "me",
+      "di",
+      "o",
+      "ca",
+      "m",
+      "po"
+    ],
+    "definition": "Área del juego de fútbol ubicada entre la defensa y el ataque, a la que se refiere el mediocampista, jugador que opera en esta zona.",
+    "example": "El mediocampista tuvo un gran juego hoy. Su paso preciso desde la mitad del campo resultó decisivo para el gol de nuestra equipo."
+  },
+  {
+    "term": "propiciar",
+    "variants": [],
+    "tokens": [
+      "pr",
+      "o",
+      "p",
+      "ic",
+      "ia",
+      "r"
+    ],
+    "definition": "En deportes, propiciar significa crear las condiciones óptimas para el éxito de un equipo o jugador en un partido o competición. Es un término utilizado para hablar del trabajo realizado fuera del campo por los entrenadores y personal técnico.",
+    "example": "El entrenador propició la confianza entre los jugadores, creando un ambiente de trabajo colaborativo que condujo al éxito del equipo."
+  },
+  {
+    "term": "explotar",
+    "variants": [],
+    "tokens": [
+      "e",
+      "x",
+      "p",
+      "l",
+      "o",
+      "ta",
+      "r"
+    ],
+    "definition": "Expresión utilizada para indicar que un equipo está jugando de manera muy efectiva o dominante en el partido.",
+    "example": "El Barcelona explotó en el primer tiempo con cuatro goles en veintidós minutos."
+  },
+  {
+    "term": "podemos",
+    "variants": [],
+    "tokens": [
+      "po",
+      "de",
+      "m",
+      "os"
+    ],
+    "definition": "Un movimiento táctico del fútbol que consiste en distribuir el balón entre los jugadores mediante pases rápidos y precisos.",
+    "example": "El mediocampista realizó un podemos perfecto para abrir el marcador."
+  },
+  {
+    "term": "contribuir",
+    "variants": [],
+    "tokens": [
+      "co",
+      "nt",
+      "ri",
+      "b",
+      "u",
+      "i",
+      "r"
+    ],
+    "definition": "Acción de agregar algo nuevo al juego, como anotar goles o crear jugadas efectivas.",
+    "example": "El delantero contribuyó con dos goles en la victoria de su equipo por 3-0."
+  },
+  {
+    "term": "caracterizan",
+    "variants": [
+      "caracterizaban"
+    ],
+    "tokens": [
+      "ca",
+      "ra",
+      "c",
+      "te",
+      "ri",
+      "z",
+      "an"
+    ],
+    "definition": "Caracterizan a algún equipo o jugador por su estilo, tácticas, características o conducta habitual en el deporte del fútbol.",
+    "example": "El Barcelona es conocido por su juego de posesión y carácter ofensivo, caracterizados por un estilo de juego fluidizado con movimientos rápidos y precisos."
+  },
+  {
+    "term": "habilidad",
+    "variants": [
+      "agilidad"
+    ],
+    "tokens": [
+      "h",
+      "a",
+      "b",
+      "i",
+      "li",
+      "da",
+      "d"
+    ],
+    "definition": "Habilidad es la capacidad de un jugador para ejecutar técnicas o gestos con habilidad y eficacia en el campo de juego. Se refiere a las habilidades técnicas, físicas y mentales que necesitan los jugadores para manejar el balón y superar a sus rivales.",
+    "example": "El jugador mostró una gran habilidad al evadir al defensa y marcar un gol con un chilena."
+  },
+  {
+    "term": "atacante",
+    "variants": [],
+    "tokens": [
+      "a",
+      "ta",
+      "ca",
+      "nt",
+      "e"
+    ],
+    "definition": "Jugador de fútbol que ocupa la posición del ataque y su principal objetivo es marcar goles.",
+    "example": "El atacante Messi es el máximo goleador de la historia del fútbol argentino."
+  },
+  {
+    "term": "cercana",
+    "variants": [
+      "cercanos"
+    ],
+    "tokens": [
+      "c",
+      "er",
+      "ca",
+      "na"
+    ],
+    "definition": "Término que se utiliza en fútbol para referirse a la zona cercana al arco de un portero, donde los atacantes buscan anotar el gol.",
+    "example": "El delantero intenta rematar cerca para aprovechar un rechace del arquero."
+  },
+  {
+    "term": "responsable",
+    "variants": [],
+    "tokens": [
+      "re",
+      "s",
+      "po",
+      "n",
+      "s",
+      "a",
+      "b",
+      "l",
+      "e"
+    ],
+    "definition": "En deportes, responsable es aquel que tiene la potestad de tomar decisiones estratégicas y gestionar a los jugadores. En fútbol, un entrenador o seleccionador sería un ejemplo.",
+    "example": "El responsable del equipo de fútbol decidió cambiar el sistema táctico para enfrentar al rival."
+  },
+  {
+    "term": "desmarcarse",
+    "variants": [],
+    "tokens": [
+      "de",
+      "s",
+      "m",
+      "ar",
+      "ca",
+      "r",
+      "s",
+      "e"
+    ],
+    "definition": "Abandonar temporalmente la posición designada, por lo general para crear un espacio o una abertura en el campo de juego.",
+    "example": "El centrocampista desmarcó al defensa para poder pasarle al delantero y crear una oportunidad de gol."
+  },
+  {
+    "term": "dependiendo",
+    "variants": [
+      "perdiendo"
+    ],
+    "tokens": [
+      "de",
+      "p",
+      "en",
+      "di",
+      "en",
+      "do"
+    ],
+    "definition": "En deportes, dependiendo se refiere a que una acción o situación puede variar en función de otros factores. Por ejemplo: el resultado de un partido de fútbol depende del rendimiento de los jugadores y la estrategia táctica.",
+    "example": "El resultado del partido depende del rendimiento de los jugadores, por lo que es importante entrenar con dedicación."
+  },
+  {
+    "term": "dimensiones",
+    "variants": [],
+    "tokens": [
+      "di",
+      "me",
+      "n",
+      "si",
+      "on",
+      "es"
+    ],
+    "definition": "En fútbol, dimensiones se refiere a las medidas exactas de la cancha o campo de juego. La mayoría del mundo utiliza una dimensión estándar de 100 metros de largo y 70 metros de ancho.",
+    "example": "La cancha de fútbol es de 105 metros de largo y 68 metros de ancho."
+  },
+  {
+    "term": "similares",
+    "variants": [],
+    "tokens": [
+      "si",
+      "m",
+      "i",
+      "la",
+      "re",
+      "s"
+    ],
+    "definition": "Jugadores o equipos que se enfrentan entre sí en deportes como el fútbol y tienen características similares, tales como estilo de juego o habilidades comunes.",
+    "example": "El Real Madrid y el Barcelona son equipos similares por su estilo ofensivo y la calidad de sus jugadores."
+  },
+  {
+    "term": "alrededor",
+    "variants": [],
+    "tokens": [
+      "al",
+      "re",
+      "de",
+      "do",
+      "r"
+    ],
+    "definition": "Área cercana al centro del campo de juego, que tiene que cruzar un jugador para que sea contada una asistencia.",
+    "example": "En el golpe de cabeza de Diego Valeri, Raul Ruidiaz se encontraba cerca del área de ataque y recibió la asistencia perfecta para convertir el tanto."
+  },
+  {
+    "term": "descanso",
+    "variants": [
+      "descalzo"
+    ],
+    "tokens": [
+      "de",
+      "s",
+      "ca",
+      "n",
+      "s",
+      "o"
+    ],
+    "definition": "Descanso es un período breve en el juego de fútbol durante el cual los jugadores tienen tiempo de descansar y los equipos pueden organizarse para la siguiente acción. Es normal que ocurra varias veces durante cada mitad del partido.",
+    "example": "El portero necesitaba un descanso en ese momento porque se lastimó el muslo."
+  },
+  {
+    "term": "temperaturas",
+    "variants": [],
+    "tokens": [
+      "te",
+      "m",
+      "p",
+      "er",
+      "a",
+      "t",
+      "u",
+      "ra",
+      "s"
+    ],
+    "definition": "Las temperaturas en deportes, especialmente en fútbol, se refieren a los grados centígrados que definen la condición ambiental. Son importantes para las actividades deportivas porque pueden afectar al rendimiento de los jugadores.",
+    "example": "El partido entre Madrid y Barcelona se retrasó debido a temperaturas altas en el estadio."
+  },
+  {
+    "term": "hidraten",
+    "variants": [],
+    "tokens": [
+      "h",
+      "id",
+      "ra",
+      "te",
+      "n"
+    ],
+    "definition": "Hidraten se refiere a la ingesta de líquidos para mantener el equilibrio hidroelectrolítico del cuerpo. Es importante especialmente en deportes intensos, como el fútbol.",
+    "example": "Después del entrenamiento, es importante hidratarse bien para recuperar el cuerpo."
+  },
+  {
+    "term": "gravedad",
+    "variants": [],
+    "tokens": [
+      "g",
+      "ra",
+      "v",
+      "e",
+      "da",
+      "d"
+    ],
+    "definition": "En deportes, la gravedad se refiere a la situación de juego en la que un equipo está muy por detrás del otro, con pocas o ninguna posibilidad de remontar la diferencia de gol. Por ejemplo: 'El equipo local está 3 goles abajo y no parece haber salida; es una gravedad casi insalvable.'",
+    "example": ""
+  },
+  {
+    "term": "comunes",
+    "variants": [],
+    "tokens": [
+      "co",
+      "m",
+      "u",
+      "ne",
+      "s"
+    ],
+    "definition": "En deportes, término que se refiere a las reglas o costumbres comunes en un juego, generalmente reconocidas por la mayoría de equipos y organizaciones.",
+    "example": "Es importante entender las reglas comunes de fútbol para poder jugar sin problemas en cualquier equipo."
+  },
+  {
+    "term": "rodillas",
+    "variants": [
+      "tobillos"
+    ],
+    "tokens": [
+      "ro",
+      "di",
+      "l",
+      "la",
+      "s"
+    ],
+    "definition": "Las rodillas son las articulaciones que se encuentran en la parte alta de los huesos del tobillo y debajo de las cuales se ubican las articulaciones de las piernas. En el fútbol, se refiere a las acciones realizadas en dichas articulaciones.",
+    "example": "El jugador saltó y giro a un costado para evitar la defensa rival, pero se lastimó en la rodilla."
+  },
+  {
+    "term": "rotativos",
+    "variants": [],
+    "tokens": [
+      "ro",
+      "ta",
+      "ti",
+      "v",
+      "os"
+    ],
+    "definition": "Forma de organizar los partidos de un campeonato en forma circular, de modo que cada equipo juegue ante todos sus rivales.",
+    "example": "El torneo de fútbol es rotativo para que cada club se enfrente a todos sus rivales durante la temporada."
+  },
+  {
+    "term": "sometidos",
+    "variants": [],
+    "tokens": [
+      "s",
+      "o",
+      "me",
+      "ti",
+      "do",
+      "s"
+    ],
+    "definition": "Jugadores que juegan en una posición defensiva o de apoyo en el campo de fútbol.",
+    "example": "Los sometidos del equipo deberían trabajar duro para evitar que el portero sea superado."
+  },
+  {
+    "term": "meniscos",
+    "variants": [],
+    "tokens": [
+      "me",
+      "n",
+      "is",
+      "co",
+      "s"
+    ],
+    "definition": "Los meniscos son estructuras cartilaginosas que protegen los artículos de las rodillas. En el contexto del fútbol, se refiere a las zonas de tierra ubicadas en ambos lados del campo.",
+    "example": "El balón rebota de la portería y gira hacia el centro del campo, golpeando el menisco derecho."
+  },
+  {
+    "term": "ligamentos",
+    "variants": [],
+    "tokens": [
+      "li",
+      "g",
+      "am",
+      "en",
+      "to",
+      "s"
+    ],
+    "definition": "Ligamentos son tejidos que unen huesos en la articulación, proporcionando estabilidad y movimiento. En fútbol, los ligamentos cruzados de la rodilla son particularmente importantes.",
+    "example": "El jugador sufrió una lesión en el ligamento cruzado anterior, lo que le impide jugar durante varias semanas."
+  },
+  {
+    "term": "desgarros",
+    "variants": [],
+    "tokens": [
+      "de",
+      "s",
+      "g",
+      "ar",
+      "ro",
+      "s"
+    ],
+    "definition": "En fútbol, desgarro es un daño muscular que se produce en el músculo trasero, especialmente en los músculos isquiotibiales. Es causado por una sobrecarga o estrés repetido del músculo.",
+    "example": "El jugador se sintió molestia en la pierna derecha y fue diagnosticado con desgarro isquiotibial."
+  },
+  {
+    "term": "musculares",
+    "variants": [],
+    "tokens": [
+      "m",
+      "u",
+      "s",
+      "c",
+      "u",
+      "la",
+      "re",
+      "s"
+    ],
+    "definition": "Músculos que se utilizan para desplazarse, controlar el cuerpo o maniobrar el balón en fútbol.",
+    "example": "El muscular de un jugador es clave para evitar sufrir lesiones en la cancha y poder ejecutar movimientos rápidos y potentes."
+  },
+  {
+    "term": "habituales",
+    "variants": [],
+    "tokens": [
+      "h",
+      "a",
+      "b",
+      "i",
+      "t",
+      "ua",
+      "l",
+      "es"
+    ],
+    "definition": "En deportes, habituales se refiere a los jugadores o equipos que participan regularmente en un torneo o competición.",
+    "example": "El equipo local es conocido por su gran cantidad de jugadores habituales."
+  },
+  {
+    "term": "probabilidades",
+    "variants": [
+      "posibilidades"
+    ],
+    "tokens": [
+      "pr",
+      "o",
+      "b",
+      "a",
+      "b",
+      "i",
+      "li",
+      "da",
+      "de",
+      "s"
+    ],
+    "definition": "Probabilidades en deportes (fútbol) son las posibilidades estimadas de que un evento específico ocurra durante una partida. Pueden ser calculadas mediante distintos métodos y se utilizan para analizar estrategias, pronosticar resultados o determinar el valor de apuestas.",
+    "example": "El equipo local tiene probabilidades del 80% de ganar esta partida debido a su superioridad en ataque y defensa."
+  },
+  {
+    "term": "particularmente",
+    "variants": [],
+    "tokens": [
+      "p",
+      "ar",
+      "ti",
+      "c",
+      "u",
+      "la",
+      "r",
+      "me",
+      "nt",
+      "e"
+    ],
+    "definition": "Adjetivo que indica una situación, acción o circunstancia específica y no común. En deportes, puede significar un detalle o característica diferente en la estrategia de un equipo.",
+    "example": "El entrenador decidió poner particularmente a este jugador como puntero izquierdo debido a su habilidad para rematar desde allí."
+  },
+  {
+    "term": "deportista",
+    "variants": [],
+    "tokens": [
+      "de",
+      "po",
+      "r",
+      "ti",
+      "st",
+      "a"
+    ],
+    "definition": "Individuo que practica deporte, en este caso, fútbol. Puede ser profesional o aficionado.",
+    "example": "El jugador es un deportista de fútbol destacado en el equipo local."
+  },
+  {
+    "term": "aficionado",
+    "variants": [],
+    "tokens": [
+      "a",
+      "f",
+      "ic",
+      "io",
+      "na",
+      "do"
+    ],
+    "definition": "Persona que practica o sigue un deporte, especialmente el fútbol, con entusiasmo y pasión pero no profesionalmente.",
+    "example": "El aficionado siempre está listo para la próxima partida de su equipo favorito."
+  },
+  {
+    "term": "irregular",
+    "variants": [],
+    "tokens": [
+      "i",
+      "r",
+      "re",
+      "gu",
+      "la",
+      "r"
+    ],
+    "definition": "En fútbol, un jugador o equipo irregular es aquel que no cumple con las normas establecidas en cuanto a su posición, ropa de juego o edad.",
+    "example": "El delantero fue sancionado porque jugó con botas irregulares."
+  },
+  {
+    "term": "semiprofesionales",
+    "variants": [],
+    "tokens": [
+      "s",
+      "e",
+      "m",
+      "i",
+      "pr",
+      "o",
+      "f",
+      "es",
+      "io",
+      "na",
+      "l",
+      "es"
+    ],
+    "definition": "Jugadores de fútbol que no juegan profesionalmente de forma permanente y están en el equipo reserva o tienen contratos parciales.",
+    "example": "Los semiprofesionales tienen un contrato parcial con el club y solo pueden jugar en ciertos partidos.}"
+  },
+  {
+    "term": "ejercicio",
+    "variants": [
+      "servicio"
+    ],
+    "tokens": [
+      "e",
+      "j",
+      "er",
+      "ci",
+      "ci",
+      "o"
+    ],
+    "definition": "Acción que se realiza durante un partido de fútbol en la que los jugadores intentan marcar goles usando las reglas del deporte.",
+    "example": "Durante el tiempo de juego, el delantero ejecutó un centro para su compañero de equipo, quien logró marcar un gol."
+  },
+  {
+    "term": "regularidad",
+    "variants": [],
+    "tokens": [
+      "re",
+      "gu",
+      "la",
+      "ri",
+      "da",
+      "d"
+    ],
+    "definition": "En deportes, regularidad se refiere a la consistencia de actuación o rendimiento, especialmente en el fútbol. Es un conjunto de características que permiten al jugador mantener un nivel constante y predecible en sus actuaciones.",
+    "example": "El jugador es conocido por su regularidad en el campo, a pesar de las numerosas oportunidades que le ha dado la competencia."
+  },
+  {
+    "term": "complementar",
+    "variants": [],
+    "tokens": [
+      "co",
+      "m",
+      "p",
+      "l",
+      "e",
+      "me",
+      "nt",
+      "ar"
+    ],
+    "definition": "Un complementario es un jugador que ocupa la posición para completar una jugada o una acción en el campo de fútbol, generalmente se refiere a los delanteros y laterales.",
+    "example": "El lateral derecho tiene que ser un buen complementario ya que debe apoyar tanto al defensa como al delantero."
+  },
+  {
+    "term": "correcta",
+    "variants": [
+      "correr"
+    ],
+    "tokens": [
+      "co",
+      "r",
+      "re",
+      "c",
+      "ta"
+    ],
+    "definition": "Es la jugada correcta para avanzar el balón hacia el arco contrario en fútbol, y se logra manteniendo un movimiento continuo con el pie de golpe al balón, sin detenerlo hasta que no lo haya mandado a la portería o fuera del campo.",
+    "example": "En el juego, Juan recibió el balón desde su compañero y con una correcta pateó para marcar el primer gol."
+  },
+  {
+    "term": "recomendable",
+    "variants": [],
+    "tokens": [
+      "re",
+      "co",
+      "me",
+      "nd",
+      "a",
+      "b",
+      "l",
+      "e"
+    ],
+    "definition": "En deportes, un jugador, equipo o entrenador que ha demostrado excelencia en su desempeño y es visto como una buena opción para ser considerado en cualquier situación.",
+    "example": "El delantero es recomendable debido a sus goles importantes en las últimas jornadas."
+  },
+  {
+    "term": "capaces",
+    "variants": [],
+    "tokens": [
+      "ca",
+      "p",
+      "a",
+      "c",
+      "es"
+    ],
+    "definition": "Los capaces son zonas del campo de fútbol designadas para que los jugadores tengan más libertad y oportunidades de jugar con la pelota.",
+    "example": "El atacante busca el espacio en las capaces para recibir un pase y atacar al arco contrario."
+  },
+  {
+    "term": "situado",
+    "variants": [
+      "situarse"
+    ],
+    "tokens": [
+      "si",
+      "t",
+      "ua",
+      "do"
+    ],
+    "definition": "En fútbol, el término 'situado' se refiere a un jugador que ocupa una posición específica en el campo de juego.",
+    "example": "El delantero es situado para aprovechar la oportunidad en contra, debido a la falta de defensores rivales."
+  },
+  {
+    "term": "planeado",
+    "variants": [],
+    "tokens": [
+      "p",
+      "la",
+      "ne",
+      "ad",
+      "o"
+    ],
+    "definition": "Planeado se refiere a una jugada o táctica previa en un partido de fútbol. Es la acción planificada y ejecutada por el equipo para conseguir un objetivo estratégico.",
+    "example": "El entrenador planeó atacar por los lados, aprovechando las debilidades defensivas del rival."
+  },
+  {
+    "term": "utilizar",
+    "variants": [
+      "utilizada",
+      "utiliza"
+    ],
+    "tokens": [
+      "u",
+      "ti",
+      "li",
+      "z",
+      "ar"
+    ],
+    "definition": "Emplear un objeto o acción en el juego de fútbol, como un pate o un tiro.",
+    "example": "El delantero utilizó la cabeza para enviar el balón al arco rival."
+  },
+  {
+    "term": "recibirlo",
+    "variants": [],
+    "tokens": [
+      "re",
+      "ci",
+      "b",
+      "i",
+      "r",
+      "l",
+      "o"
+    ],
+    "definition": "Recebirlo es capturar un pase de un compañero durante una jugada, habitualmente en ataque para prepararse para disparar o crear otra oportunidad ofensiva.",
+    "example": "El delantero recibió el pase de su mediocampista y disparó a gol."
+  },
+  {
+    "term": "oponentes",
+    "variants": [
+      "componente"
+    ],
+    "tokens": [
+      "o",
+      "po",
+      "ne",
+      "nt",
+      "es"
+    ],
+    "definition": "Los oponentes son los equipos que se enfrentan entre sí en un partido de fútbol.",
+    "example": "El Real Madrid jugará contra el Atlético de Madrid en la próxima Liga española, con los dos equipos como oponentes."
+  },
+  {
+    "term": "aquella",
+    "variants": [],
+    "tokens": [
+      "a",
+      "q",
+      "u",
+      "e",
+      "l",
+      "la"
+    ],
+    "definition": "Aquella es la jugadora o el jugador que marca un gol en una situación clave de un partido.",
+    "example": "Aquella fue la goleadora del equipo local en la definición por penales."
+  },
+  {
+    "term": "aumentando",
+    "variants": [],
+    "tokens": [
+      "a",
+      "u",
+      "me",
+      "nt",
+      "an",
+      "do"
+    ],
+    "definition": "En deportes, aumentando se refiere a la capacidad de mejorar las habilidades o rendimiento del jugador en el campo. Ejemplo: El jugador ha estado entrenando para mejorar su velocidad y poder disparar en el área, por lo que está aumentando sus habilidades.",
+    "example": "El técnico observó que el portero había mejorado su reflejo y concentración después de entrenar durante las vacaciones."
+  },
+  {
+    "term": "amortiguamiento",
+    "variants": [],
+    "tokens": [
+      "am",
+      "or",
+      "ti",
+      "gu",
+      "am",
+      "ie",
+      "nt",
+      "o"
+    ],
+    "definition": "El término 'amortiguamiento' se refiere al proceso de atenuar los impactos en el cuerpo de los jugadores durante el juego. Por ejemplo, un defensor que amortigua un remate del delantero con su cuerpo para evitar el gol.",
+    "example": "El portero es experto en el uso del amortiguamiento cuando salta para atajar el penal."
+  },
+  {
+    "term": "trayectoria",
+    "variants": [],
+    "tokens": [
+      "tr",
+      "a",
+      "y",
+      "ec",
+      "to",
+      "ri",
+      "a"
+    ],
+    "definition": "La trayectoria en deportes, especialmente en fútbol, se refiere al camino o ruta que sigue un jugador o balón a lo largo del campo de juego. Es el recorrido seguido por estos elementos durante el desarrollo de una acción.",
+    "example": "La trayectoria del balón fue curva debido a la tacada de Defensor 1, que hizo girar el balón hacia Atacante 2."
+  },
+  {
+    "term": "descendente",
+    "variants": [],
+    "tokens": [
+      "de",
+      "s",
+      "c",
+      "en",
+      "de",
+      "nt",
+      "e"
+    ],
+    "definition": "En deportes, descendente se refiere a un jugador que ocupa una posición detrás de la línea de ataque y participa más en el juego defensivo. Por ejemplo: 'El defensor central es descendiente por su rol de cubrir los espacios libres al fondo del campo.'",
+    "example": "'La estrategia para contrarrestar a un atacante brillante es colocar un jugador descendiente en su parte del campo.'"
+  },
+  {
+    "term": "produce",
+    "variants": [],
+    "tokens": [
+      "pr",
+      "o",
+      "d",
+      "u",
+      "c",
+      "e"
+    ],
+    "definition": "Verbular, significa hacer aparecer un balón en el arco contrario al propio después de una jugada, o marcar gol. En fútbol, produce tener un impacto positivo en el resultado del partido.",
+    "example": "El atacante produce dos goles en la primera mitad del partido."
+  },
+  {
+    "term": "adecuadamente",
+    "variants": [],
+    "tokens": [
+      "ad",
+      "ec",
+      "ua",
+      "da",
+      "me",
+      "nt",
+      "e"
+    ],
+    "definition": "Conforme a las reglas y expectativas establecidas, tanto en cuanto al equipo, la formación táctica como en el cumplimiento de los reglamentos deportivos.",
+    "example": "El portero debería estar adecuadamente preparado para enfrentar penales."
+  },
+  {
+    "term": "permiten",
+    "variants": [],
+    "tokens": [
+      "p",
+      "er",
+      "m",
+      "i",
+      "te",
+      "n"
+    ],
+    "definition": "Permite significa otorgar derecho o posibilidad a alguien. En el contexto del fútbol, es cuando un jugador tiene la libertad de moverse por el campo para que realice acciones ofensivas.",
+    "example": "El volante debía permitir al delantero que se desplazara más hacia atrás para poder aprovechar una oportunidad de gol."
+  },
+  {
+    "term": "variedad",
+    "variants": [],
+    "tokens": [
+      "v",
+      "ar",
+      "ie",
+      "da",
+      "d"
+    ],
+    "definition": "En deportes, la variedad se refiere a los diferentes tipos de juegos o tácticas que pueden presentarse en un partido. Por ejemplo, puede hablarse de una variedad táctica si un equipo utiliza varias formaciones o jugadores en distintas posiciones.",
+    "example": "El entrenador eligió una variedad en la defensa para enfrentar al rival potente."
+  },
+  {
+    "term": "situaciones",
+    "variants": [],
+    "tokens": [
+      "si",
+      "t",
+      "ua",
+      "ci",
+      "on",
+      "es"
+    ],
+    "definition": "Situaciones en fútbol se refieren a las posiciones o contextos estratégicos que surgen durante el juego. Pueden abarcar acciones individuales, interacciones entre jugadores o decisiones tácticas tomadas por los entrenadores.",
+    "example": "La situación del mediocampo de nuestro equipo es desfavorable debido a la ausencia del mediapunta y el falta de control sobre la pelota."
+  },
+  {
+    "term": "asistencia",
+    "variants": [],
+    "tokens": [
+      "as",
+      "is",
+      "te",
+      "nc",
+      "ia"
+    ],
+    "definition": "Asistencia en deportes es la acción de brindar pasada a un compañero para que tenga posibilidad de anotar un gol.",
+    "example": "La asistencia perfecta: el lateral izquierdo envió un centro y el delantero convirtió con cabeza."
+  },
+  {
+    "term": "equilibrio",
+    "variants": [],
+    "tokens": [
+      "e",
+      "q",
+      "u",
+      "i",
+      "li",
+      "b",
+      "ri",
+      "o"
+    ],
+    "definition": "En deportes, equilibrio se refiere al estado de estabilidad física que permite mantenerse erguido sin caer. Es crucial para el control del cuerpo y la coordinación en movimientos rápidos.",
+    "example": "El portero tuvo un excelente equilibrio durante el partido, lo cual le permitió realizar una gran defensa."
+  },
+  {
+    "term": "demasiadas",
+    "variants": [
+      "demasiado"
+    ],
+    "tokens": [
+      "de",
+      "m",
+      "as",
+      "ia",
+      "da",
+      "s"
+    ],
+    "definition": "Demasiadas es un término que se utiliza para referirse a un número muy grande de faltas en el juego de fútbol. Es una situación que puede favorecer al equipo contrario o resultar en la expulsión de jugadores.",
+    "example": "El equipo perdió muchos puntos porque cometió demasiadas faltas."
+  },
+  {
+    "term": "controvertido",
+    "variants": [],
+    "tokens": [
+      "co",
+      "nt",
+      "ro",
+      "v",
+      "er",
+      "ti",
+      "do"
+    ],
+    "definition": "Un término controvertido en deportes es aquel que desencadena debates o discusiones, particularmente por su interpretación y aplicabilidad. En el fútbol, un ejemplo sería la regla del fuera de juego.",
+    "example": "El gol marcado fue anotado antes de que entrara en el campo un jugador fuera de juego, pero algunos afirmaron que esa acción es controvertida."
+  },
+  {
+    "term": "escuadra",
+    "variants": [],
+    "tokens": [
+      "es",
+      "c",
+      "ua",
+      "d",
+      "ra"
+    ],
+    "definition": "Escuadra es una marca de productos deportivos especializada en accesorios para el fútbol, como las balas y los tiros de penalti.",
+    "example": "Utilice la escuadra roja para marcar el centro del arco antes de ejecutar el penal."
+  },
+  {
+    "term": "adelantado",
+    "variants": [],
+    "tokens": [
+      "ad",
+      "e",
+      "la",
+      "nt",
+      "ad",
+      "o"
+    ],
+    "definition": "El adelantado es un movimiento en fútbol consistente en sacar ventaja sobre un oponente con el objeto de ganar tiempo o espacio. Es una táctica utilizada principalmente al atacar.",
+    "example": "Con el balón en su posesión, el delantero adelanta a su rival para crear un espacio donde pueda ejecutar un pase."
+  },
+  {
+    "term": "humanidad",
+    "variants": [],
+    "tokens": [
+      "h",
+      "u",
+      "m",
+      "an",
+      "id",
+      "ad"
+    ],
+    "definition": "El concepto de humanidad en el deporte, en especial en el fútbol, se refiere a la comprensión y respeto mutuo entre jugadores, al respetar las reglas del juego y a la actitud ética en general. ",
+    "example": "A pesar de su fuerte competencia, los dos equipos demostraron humanidad al abrazarse al final de la partida."
+  },
+  {
+    "term": "realizado",
+    "variants": [],
+    "tokens": [
+      "re",
+      "al",
+      "i",
+      "z",
+      "ad",
+      "o"
+    ],
+    "definition": "En deportes, el término 'realizado' se refiere a la situación en que un jugador consigue marcar un gol o dar una asistencia. En este sentido, también se utiliza para indicar que ha cumplido con una acción ofensiva efectivamente.",
+    "example": "El atacante realizó un gol en el minuto 80, poniendo así punto al partido."
+  },
+  {
+    "term": "historia",
+    "variants": [],
+    "tokens": [
+      "h",
+      "is",
+      "to",
+      "ri",
+      "a"
+    ],
+    "definition": "Cuenta de los hechos, actos y acontecimientos importantes en la historia de un equipo o selección de fútbol, a menudo registrada en forma escrita, como archivo para futuras generaciones.",
+    "example": "La historia del Real Madrid se remonta al año 1902 con su fundación bajo el nombre de Club Deportivo Español."
+  },
+  {
+    "term": "entretenimiento",
+    "variants": [],
+    "tokens": [
+      "en",
+      "tr",
+      "e",
+      "te",
+      "n",
+      "i",
+      "m",
+      "ie",
+      "nt",
+      "o"
+    ],
+    "definition": "El entretenimiento relacionado con deportes, específicamente el fútbol, se refiere a la experiencia y los eventos que rodean el juego en sí mismo. Puede incluir partidos en vivo, análisis de videojuegos, noticias y debates sobre el mismo.",
+    "example": "La entrevista postpartido fue muy interesante, donde se analizó la estrategia de ataque utilizada por ambos equipos."
+  },
+  {
+    "term": "cultura",
+    "variants": [],
+    "tokens": [
+      "c",
+      "u",
+      "l",
+      "t",
+      "u",
+      "ra"
+    ],
+    "definition": "Conjunto de creencias, valores, tradiciones y comportamientos propios del fútbol de un país o club que influyen en la forma de jugar y percibir el deporte.",
+    "example": "La cultura del fútbol inglés es conocida por su juego ofensivo y por su gran pasión por la competición, como se refleja en la Premier League."
+  },
+  {
+    "term": "hallazgo",
+    "variants": [],
+    "tokens": [
+      "h",
+      "al",
+      "la",
+      "z",
+      "g",
+      "o"
+    ],
+    "definition": "Un hallazgo es una infringencia o infracción cometida durante un partido de fútbol por los jugadores, que puede ser sancionada por el árbitro.",
+    "example": "El árbitro señaló el hallazgo al defensa por tocar la pelota con la mano dentro del área."
+  },
+  {
+    "term": "antiguo",
+    "variants": [
+      "antiguas"
+    ],
+    "tokens": [
+      "an",
+      "ti",
+      "gu",
+      "o"
+    ],
+    "definition": "El término 'antiguo' se refiere a deportes o reglas de fútbol que datan de épocas remotas. Es un concepto historiográfico utilizado en el análisis del desarrollo y evolución del fútbol.",
+    "example": "En el siglo XIX, el fútbol antiguo se jugaba con casi ninguna regla establecida, lo que difería mucho de la versión moderna."
+  },
+  {
+    "term": "revelador",
+    "variants": [],
+    "tokens": [
+      "re",
+      "v",
+      "e",
+      "la",
+      "do",
+      "r"
+    ],
+    "definition": "El término 'revelador' se utiliza en fútbol para referirse a un jugador que sobresale y destaca notablemente en una ocasión específica. Es un jugador desconocido antes de la partida pero que, a través de su actuación, demuestra tener mucho talento.",
+    "example": "El mediocampista del equipo local fue revelador en el partido, anotando dos goles y dando tres asistencias."
+  },
+  {
+    "term": "relieve",
+    "variants": [],
+    "tokens": [
+      "re",
+      "li",
+      "e",
+      "v",
+      "e"
+    ],
+    "definition": "El relieve se refiere a las alturas o pendientes de un terreno sobre el que se juega un deporte como el fútbol. Puede influir en la velocidad, la distancia y la precisión del juego.",
+    "example": "En ese campo, el relieve ascendiente hace que el equipo local tenga ventaja al lanzar largos tiros de gol."
+  },
+  {
+    "term": "episkyros",
+    "variants": [],
+    "tokens": [
+      "e",
+      "p",
+      "is",
+      "k",
+      "y",
+      "ro",
+      "s"
+    ],
+    "definition": "Técnica de remate en el fútbol que consiste en dar un golpe fuerte con la punta del pie hacia arriba, generalmente desde una posición cercana al arco contrario.",
+    "example": "El jugador aprovechó el rebote para realizar un episkyros de precisión y abrir el marcador."
+  },
+  {
+    "term": "pintada",
+    "variants": [],
+    "tokens": [
+      "p",
+      "in",
+      "ta",
+      "da"
+    ],
+    "definition": "Marca hecha en el césped por los jugadores al tirar o golpear la pelota con un pie.",
+    "example": "El delantero hizo una pintada hacia la banda derecha para crear un espacio para su compañero."
+  },
+  {
+    "term": "brillantes",
+    "variants": [],
+    "tokens": [
+      "b",
+      "ri",
+      "l",
+      "la",
+      "nt",
+      "es"
+    ],
+    "definition": "En fútbol, brillantes se refiere a los jugadores que sobresalen por su habilidad técnica y creatividad en el campo. Son aquellos que destacan por sus gestos magistrales, pasadas emocionantes y goles espectaculares.",
+    "example": "El atacante del equipo local es un jugador brillante; siempre tiene una solución para cada situación en el partido."
+  },
+  {
+    "term": "harpastum",
+    "variants": [],
+    "tokens": [
+      "h",
+      "ar",
+      "p",
+      "as",
+      "t",
+      "u",
+      "m"
+    ],
+    "definition": "Juego de pelota similar al rugby, popular entre los romanos. Consiste en golpear una pequeña bola con las manos y anotar puntos colocándola en el arco contrario.",
+    "example": "Antes del fútbol moderno, los romanos jugaban harpastum en sus termas públicas."
+  },
+  {
+    "term": "unificando",
+    "variants": [],
+    "tokens": [
+      "u",
+      "n",
+      "i",
+      "f",
+      "ic",
+      "an",
+      "do"
+    ],
+    "definition": "Unificar en deportes significa fusionar dos o más equipos para competir juntos. En fútbol, puede referirse a la fusión de diferentes clubes.",
+    "example": "Los equipos A y B de la ciudad decidieron unificarse para mejorar sus posibilidades en el campeonato."
+  },
+  {
+    "term": "segunda",
+    "variants": [],
+    "tokens": [
+      "s",
+      "e",
+      "gu",
+      "nd",
+      "a"
+    ],
+    "definition": "En fútbol, la segunda corresponde a la posición defensiva que juega detrás del lateral izquierdo o derecho. Su función es apoyar en la defensa y ayudar al lateral cuando recibe el balón.",
+    "example": "La segunda debe mantener una buena comunicación con su lateral para evitar que se pierda el balón."
+  },
+  {
+    "term": "unificaciones",
+    "variants": [],
+    "tokens": [
+      "u",
+      "n",
+      "i",
+      "f",
+      "ic",
+      "a",
+      "ci",
+      "on",
+      "es"
+    ],
+    "definition": "Unificación es la fusión de dos o más clubes de fútbol, con el objetivo de fortalecer su posición en la competencia. Es común en casos de problemas financieros y bajas posiciones en los rankings.",
+    "example": "El club de fútbol XYZ se fusionó con ABC para formar una nueva entidad, llamada XYZ-ABC."
+  },
+  {
+    "term": "rugby",
+    "variants": [],
+    "tokens": [
+      "r",
+      "u",
+      "g",
+      "b",
+      "y"
+    ],
+    "definition": "Juego de equipo compuesto por 15 jugadores que disputa un balón ovalado en un campo dividido longitudinalmente por dos líneas, con el objetivo de avanzar hacia la zona rival para marcar try (6 puntos) o golpearlo con pie al suelo para conseguir una puntuación de 3 puntos.",
+    "example": "El partido de rugby fue un auténtico espectáculo, con muchas jugadas agresivas y un sorprendente final en que la selección local marcó el try decisivo."
+  },
+  {
+    "term": "australiano",
+    "variants": [],
+    "tokens": [
+      "a",
+      "u",
+      "st",
+      "ra",
+      "li",
+      "an",
+      "o"
+    ],
+    "definition": "Origen del fútbol, término que refiere al equipo de Australia en los torneos internacionales de fútbol.",
+    "example": "El australiano es el representante de Australia en la Copa Mundial de Fútbol."
+  },
+  {
+    "term": "requerida",
+    "variants": [],
+    "tokens": [
+      "re",
+      "q",
+      "u",
+      "er",
+      "id",
+      "a"
+    ],
+    "definition": "En deportes, 'requerida' se refiere a una jugada o movimiento que es táctica, pero no está explícitamente permitida por las reglas. Por ejemplo: un pateo del brazo o la utilización de la mano para desviar el balón.",
+    "example": "El defensor fue sancionado por utilizar una 'requerida' al usar su mano para desviar el balón."
+  },
+  {
+    "term": "impulsada",
+    "variants": [
+      "impulsado"
+    ],
+    "tokens": [
+      "i",
+      "m",
+      "p",
+      "u",
+      "l",
+      "s",
+      "ad",
+      "a"
+    ],
+    "definition": "Relacionado con el uso de un motor de juego para generar el movimiento del balón en una simulación deportiva, como en fútbol.",
+    "example": "En este partido, se utiliza un sistema de IA impulsada por el juego para crear los movimientos del equipo opuesto."
+  },
+  {
+    "term": "mencionarse",
+    "variants": [],
+    "tokens": [
+      "me",
+      "nc",
+      "io",
+      "na",
+      "r",
+      "s",
+      "e"
+    ],
+    "definition": "En deportes, mencionarse es cuando un jugador se menciona en los resúmenes o comentarios de un partido debido a sus actuaciones destacadas.",
+    "example": "El delantero de nuestro equipo se mencionó por su doble anotación en el partido contra la selección rival."
+  },
+  {
+    "term": "moribus",
+    "variants": [],
+    "tokens": [
+      "m",
+      "or",
+      "i",
+      "b",
+      "u",
+      "s"
+    ],
+    "definition": "Moribus se refiere a las costumbres y tradiciones de un club o selección en el deporte del fútbol.",
+    "example": "El moribus del Real Madrid es tener el equipo con el mayor número de jugadores internacionales."
+  },
+  {
+    "term": "tredecim",
+    "variants": [],
+    "tokens": [
+      "tr",
+      "e",
+      "de",
+      "ci",
+      "m"
+    ],
+    "definition": "Un arreglo táctico de once jugadores más dos suplentes, totalizando trece en la lista para un partido de fútbol.",
+    "example": "El técnico decidió llamar a tres suplentes adicionales para el partido contra el equipo rival y esto incrementó su plantel de trece jugadores."
+  },
+  {
+    "term": "virorum",
+    "variants": [],
+    "tokens": [
+      "v",
+      "i",
+      "ro",
+      "r",
+      "u",
+      "m"
+    ],
+    "definition": "En deportes, virus es un término utilizado para referirse a una enfermedad contagiosa que afecta al equipo o a los jugadores de un mismo deporte.",
+    "example": "El equipo tuvo que suspender su participación en la liga debido al virus que afectaba a varios de sus jugadores."
+  },
+  {
+    "term": "paraguaycorum",
+    "variants": [],
+    "tokens": [
+      "p",
+      "ar",
+      "a",
+      "gu",
+      "a",
+      "y",
+      "co",
+      "r",
+      "u",
+      "m"
+    ],
+    "definition": "Paraguaycorum es el estilo de fútbol que caracteriza a la selección de Paraguay, basado en una solidez defensiva y un juego ofensivo en contra de los flancos.",
+    "example": "El paraguaycorum es notable por su gran eficacia en defensa, como lo demuestran los pocos goles que reciben en las copas del mundo."
+  },
+  {
+    "term": "golpeaban",
+    "variants": [],
+    "tokens": [
+      "g",
+      "o",
+      "l",
+      "p",
+      "e",
+      "a",
+      "b",
+      "an"
+    ],
+    "definition": "Golpear en deportes, como el fútbol, significa golpear o chocar un objeto con la mano, pie u otro parte del cuerpo. En este contexto, es usado para describir cuando un jugador toca la pelota.",
+    "example": "El portero no pudo parar el tiro y el delantero le golpeaba la pelota al pasar por el arco."
+  },
+  {
+    "term": "rebotando",
+    "variants": [],
+    "tokens": [
+      "re",
+      "b",
+      "o",
+      "ta",
+      "nd",
+      "o"
+    ],
+    "definition": "Rebotando se refiere al efecto de devolver el balón a la dirección original del remitente después de haberlo golpeado. En fútbol, puede ser usado para burlar a un defensor o para crear una jugada técnica.",
+    "example": "El futbolista rebotó dos veces el balón ante el guardameta para evitar su desafío."
+  },
+  {
+    "term": "lanzaban",
+    "variants": [],
+    "tokens": [
+      "la",
+      "n",
+      "z",
+      "a",
+      "b",
+      "an"
+    ],
+    "definition": "En deportes, lanzar es lanzar el balón para intentar marcar un gol o avanzar en la ofensiva.",
+    "example": "El portero debería estar preparado para defender los lanzamientos de los atacantes."
+  },
+  {
+    "term": "desnudo",
+    "variants": [],
+    "tokens": [
+      "de",
+      "s",
+      "n",
+      "u",
+      "do"
+    ],
+    "definition": "Jugador que no utiliza el uniforme completo, solo la camiseta, en un partido de fútbol.",
+    "example": "El portero del equipo local optó por jugar desnudo durante todo el encuentro."
+  },
+  {
+    "term": "describe",
+    "variants": [],
+    "tokens": [
+      "de",
+      "s",
+      "c",
+      "ri",
+      "b",
+      "e"
+    ],
+    "definition": "Describir significa proporcionar detalles acerca de una acción, situación o juego en el fútbol. Relacionado con la descripción del juego, refiere al análisis de la posición y acciones de los jugadores durante cada jugada.",
+    "example": "El mediocampista describe un pase lateral largo para el lateral derecho"
+  },
+  {
+    "term": "rapidez",
+    "variants": [],
+    "tokens": [
+      "ra",
+      "p",
+      "id",
+      "e",
+      "z"
+    ],
+    "definition": "Velocidad y agilidad para realizar acciones rápidas durante el juego de fútbol.",
+    "example": "La rapidez es fundamental en la defensa, para interceptar o desarmar a los atacantes."
+  },
+  {
+    "term": "destreza",
+    "variants": [],
+    "tokens": [
+      "de",
+      "st",
+      "re",
+      "z",
+      "a"
+    ],
+    "definition": "Destreza es la habilidad y maestría que se muestra en el ejercicio de una tarea, en este caso, en fútbol se refiere al control del balón, a las pasadas precisas y a la agilidad para superar a otros jugadores.",
+    "example": "El goleador es reconocido por su destreza en el campo, con sus dobleces y su precisión al rematar los tiros libres."
+  },
+  {
+    "term": "calcio",
+    "variants": [],
+    "tokens": [
+      "ca",
+      "l",
+      "ci",
+      "o"
+    ],
+    "definition": "Es un elemento químico representado por la letra 'Ca'. En fútbol, se utiliza para referirse a una acción agresiva con el pie en un oponente.",
+    "example": "El defensa delantero cometió un calcio contra el jugador rival."
+  },
+  {
+    "term": "florentino",
+    "variants": [],
+    "tokens": [
+      "f",
+      "l",
+      "or",
+      "en",
+      "ti",
+      "n",
+      "o"
+    ],
+    "definition": "Jugador o equipo de fútbol originario de Florencia, Italia.",
+    "example": "El equipo florentino Fiorentina ha estado peleando por la clasificación a la Liga de Campeones en las últimas temporadas."
+  },
+  {
+    "term": "originario",
+    "variants": [],
+    "tokens": [
+      "or",
+      "i",
+      "g",
+      "in",
+      "ar",
+      "io"
+    ],
+    "definition": "En deportes, el término 'originario' se refiere a los jugadores que nacieron en el país o región donde juega el equipo. Ejemplo: Los originarios son aquellos futbolistas que nacieron en Argentina y representan al seleccionado argentino.",
+    "example": "El seleccionado argentino es liderado por jugadores originarios de todo el país."
+  },
+  {
+    "term": "ciudad",
+    "variants": [],
+    "tokens": [
+      "ci",
+      "u",
+      "da",
+      "d"
+    ],
+    "definition": "Ciudad, en el deporte del fútbol, es una localidad que posee un equipo profesional. Ejemplo: El Club Atlético de Madrid juega en la ciudad de Madrid.",
+    "example": "El partido se disputará entre los equipos de las ciudades de Barcelona y Valencia."
+  },
+  {
+    "term": "aspectos",
+    "variants": [],
+    "tokens": [
+      "as",
+      "p",
+      "ec",
+      "to",
+      "s"
+    ],
+    "definition": "En deportes, aspectos son factores específicos que afectan al rendimiento o resultado de un equipo o jugador. Pueden ser tácticos, físicos, psicológicos o administrativos.",
+    "example": "Las decisiones tácticas son un aspecto importante en el fútbol."
+  },
+  {
+    "term": "ambiente",
+    "variants": [],
+    "tokens": [
+      "am",
+      "b",
+      "ie",
+      "nt",
+      "e"
+    ],
+    "definition": "Área física específica donde se juega un partido de fútbol, definida por líneas blancas y marcadas por palos.",
+    "example": "El juego se detiene cuando el árbitro toca la pelota dentro del área."
+  }
+]
