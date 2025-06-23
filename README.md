@@ -68,7 +68,7 @@ Creamos cli.py, una interfaz interactiva donde el usuario puede:
 4: Salir del sistema
 
 
-###⚙️ Requisitos del Proyecto
+###  ⚙️ Requisitos del Proyecto
 Python 3.10+
 
 Librerías:
