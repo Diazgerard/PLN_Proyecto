@@ -1,4 +1,4 @@
-# PLN_Proyecto
+# PLN_Proyecto Gerardo Diaz
 
 # 🧠 Auto-Glossary Builder & Q-A Assistant
 
